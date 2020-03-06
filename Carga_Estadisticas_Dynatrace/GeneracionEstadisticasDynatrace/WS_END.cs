@@ -15,24 +15,20 @@ namespace GeneracionEstadisticasDynatrace
 using System;
     using System.Collections.Generic;
     
-public partial class WebRequestsDynatraceMes
+public partial class WS_END
 {
 
     public int ID { get; set; }
 
-    public string URI { get; set; }
+    public string WS_ID { get; set; }
 
-    public string Canal { get; set; }
+    public string WS_NOMBRE { get; set; }
 
-    public float TasaFallo { get; set; }
+    public string ENDPOINT { get; set; }
 
-    public float Numero { get; set; }
+    public string ACCION { get; set; }
 
-    public int Anyo { get; set; }
-
-    public int Mes { get; set; }
-
-    public int NumDiasActividad { get; set; }
+    public string ESTADO { get; set; }
 
 }
 

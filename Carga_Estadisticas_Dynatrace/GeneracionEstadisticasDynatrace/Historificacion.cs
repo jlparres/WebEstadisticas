@@ -68,8 +68,7 @@ namespace GeneracionEstadisticasDynatrace
                     int iFechaFin = db.DatosDynatrace.Where(x => x.Fecha_dato == fechaFin).Count();
 
 
-                    if (db.DatosDynatrace.Any(x => x.Fecha_dato == fechaInicio) &&
-                            db.DatosDynatrace.Any(x => x.Fecha_dato == fechaFin))
+                    if (db.DatosDynatrace.Any(x => x.Fecha_dato == fechaInicio) && db.DatosDynatrace.Any(x => x.Fecha_dato == fechaFin))
                     {
                         result = true;
                     }
@@ -187,11 +186,13 @@ namespace GeneracionEstadisticasDynatrace
                 if (operacion.Equals(1)) //Historificamos semanas
                 {
                     int semanaActual = cal.GetWeekOfYear(DateTime.Now, dfi.CalendarWeekRule, dfi.FirstDayOfWeek);
+                    /*
                     if (semanaActual <= periodo)
                     {
                         Registro.Mensaje(string.Format("No se puede historificar la semana {0} hasta que haya acabado", semanaActual));
                         return;
                     }
+                    */
 
                     //IFormatProvider culture = new CultureInfo("en-ES", true);
 
@@ -299,12 +300,13 @@ namespace GeneracionEstadisticasDynatrace
 
                     //int mesActual = cal.GetMOnthOfYear(DateTime.Now, dfi.CalendarWeekRule, dfi.FirstDayOfWeek);
                     int mesActual = DateTime.Now.Month;
-
+                    /*
                     if (mesActual <= periodo)
                     {
                         Registro.Mensaje(string.Format("No se puede historificar el mes {0} hasta que haya acabado", mesActual));
                         return;
                     }
+                    */
 
                     //IFormatProvider culture = new CultureInfo("en-ES", true);
 
@@ -409,6 +411,128 @@ namespace GeneracionEstadisticasDynatrace
                 else
                 {
                     return;
+                }
+            }
+        }
+
+        public static void HistorificarDatosSemanas(int periodo, int anyo)
+        {
+            DateTimeFormatInfo dfi = DateTimeFormatInfo.CurrentInfo;
+            Calendar cal = dfi.Calendar;
+
+            using (var db = new DATA_DYNAEntities())
+            {
+                int semanaActual = cal.GetWeekOfYear(DateTime.Now, dfi.CalendarWeekRule, dfi.FirstDayOfWeek);
+
+                DateTime fechaInicial = new Week(anyo, periodo).FirstDayOfWeek;
+                DateTime fechaFin = new Week(anyo, periodo).LastDayOfWeek.AddDays(1);
+
+                //HISTORIFICACION DE MÉTODOS
+                var query = db.DatosDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<DatosDynatraceSemana>();
+                if (query != null) //Ya se ha historificado
+                {
+                    Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));
+                    return;
+                }
+                else //Historificamos la semana
+                {
+                    var datosBruto = db.DatosDynatrace.Where(p => p.Fecha_dato >= fechaInicial && p.Fecha_dato < fechaFin).GroupBy(s => new { s.Metrica, s.Canal }).ToList();
+                    foreach (var row in datosBruto)
+                    {
+                        float numPromedioTotal = 0;
+                        float numPercentilTotal = 0;
+                        float promedioTotal = 0;
+                        float percentilTotal = 0;
+                        float excepcionTotal = 0;
+                        int dias = 0;
+                        var registroSemanal = new DatosDynatraceSemana();
+                        string metrica = "";
+                        string canal = "";
+
+                        foreach (var col in row)
+                        {
+                            numPromedioTotal = numPromedioTotal + col.NumPromedio;
+                            numPercentilTotal = numPercentilTotal + col.NumPercentil;
+                            promedioTotal = promedioTotal + col.Promedio;
+                            percentilTotal = percentilTotal + col.Percentil95;
+                            excepcionTotal = excepcionTotal + col.Excepciones;
+                            metrica = col.Metrica;
+                            canal = col.Canal;
+
+                            if (col.Promedio != 0)
+                            {
+                                dias++;
+                            }
+                        }
+                        registroSemanal.NumPromedio = numPromedioTotal;
+                        registroSemanal.NumPercentil = numPercentilTotal;
+                        registroSemanal.Promedio = (dias == 0) ? 0 : promedioTotal / dias;
+                        registroSemanal.Percentil95 = (dias == 0) ? 0 : percentilTotal / dias;
+                        registroSemanal.Excepciones = excepcionTotal;
+                        registroSemanal.Metrica = metrica;
+                        registroSemanal.Canal = canal;
+                        registroSemanal.Semana = periodo;
+                        registroSemanal.NumDiasActividad = dias;
+                        registroSemanal.Anyo = anyo;
+                        db.DatosDynatraceSemana.Add(registroSemanal);
+                        db.SaveChanges();
+                    }
+                }
+            }
+        }
+
+        public static void HistorificarWebRequestSemana(int periodo, int anyo)
+        {
+            DateTimeFormatInfo dfi = DateTimeFormatInfo.CurrentInfo;
+            Calendar cal = dfi.Calendar;
+
+            using (var db = new DATA_DYNAEntities())
+            {
+                int semanaActual = cal.GetWeekOfYear(DateTime.Now, dfi.CalendarWeekRule, dfi.FirstDayOfWeek);
+
+                DateTime fechaInicial = new Week(anyo, periodo).FirstDayOfWeek;
+                DateTime fechaFin = new Week(anyo, periodo).LastDayOfWeek.AddDays(1);
+                //HISTORIFICACION DE WEBREQUEST
+                var query2 = db.WebRequestsDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<WebRequestsDynatraceSemana>();
+                if (query2 != null) //Ya se ha historificado
+                {
+                    Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));
+                    return;
+                }
+                else //Historificamos la semana
+                {
+                    var datosBruto2 = db.WebRequestsDynatrace.Where(p => p.Fecha_dato >= fechaInicial && p.Fecha_dato < fechaFin).GroupBy(s => new { s.URI, s.Canal }).ToList();
+                    foreach (var row in datosBruto2)
+                    {
+                        float numTotal = 0;
+                        float tasaFalloTotal = 0;
+                        int dias = 0;
+                        var registroSemanal = new WebRequestsDynatraceSemana();
+                        string URI = "";
+                        string canal = "";
+
+                        foreach (var col in row)
+                        {
+                            numTotal = numTotal + col.Numero;
+                            tasaFalloTotal = tasaFalloTotal + col.TasaFallo;
+                            URI = col.URI;
+                            canal = col.Canal;
+
+                            if (col.Numero != 0)
+                            {
+                                dias++;
+                            }
+                        }
+                        registroSemanal.TasaFallo = tasaFalloTotal / dias;
+                        registroSemanal.Numero = (int)numTotal;
+                        registroSemanal.URI = URI;
+                        registroSemanal.Canal = canal;
+                        registroSemanal.Semana = periodo;
+                        registroSemanal.Anyo = anyo;
+                        registroSemanal.NumDiasActividad = dias;
+                        db.WebRequestsDynatraceSemana.Add(registroSemanal);
+                        db.SaveChanges();
+                    }
                 }
             }
         }

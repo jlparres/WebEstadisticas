@@ -34,11 +34,11 @@ public partial class DatosDynatraceMes
 
     public float NumPercentil { get; set; }
 
+    public int Anyo { get; set; }
+
     public int Mes { get; set; }
 
     public int NumDiasActividad { get; set; }
-
-    public int Anyo { get; set; }
 
 }
 

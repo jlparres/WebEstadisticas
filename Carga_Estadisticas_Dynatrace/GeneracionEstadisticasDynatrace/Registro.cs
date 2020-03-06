@@ -10,7 +10,8 @@ namespace GeneracionEstadisticasDynatrace
         public static void Mensaje(string texto)
         {
             texto = string.Format("{0} {1}", DateTime.Now.ToString(), texto);
-            string path = @"C:\\Dynatrace\\Logs\\";
+            string path = @"C:\Proyectos\WebEstadisticas\Documentacion\Logs";
+            //string path = @"C:\\Dynatrace\\Logs\\";
             string fichero = DateTime.Today.ToString("yyyyMM") + "_log.txt";
             string fullPath = path + fichero;
 

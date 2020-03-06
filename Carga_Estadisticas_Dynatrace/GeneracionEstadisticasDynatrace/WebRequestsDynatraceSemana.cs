@@ -26,13 +26,13 @@ public partial class WebRequestsDynatraceSemana
 
     public float TasaFallo { get; set; }
 
-    public int Numero { get; set; }
+    public float Numero { get; set; }
 
     public int Semana { get; set; }
 
-    public int NumDiasActividad { get; set; }
-
     public int Anyo { get; set; }
+
+    public int NumDiasActividad { get; set; }
 
 }
 

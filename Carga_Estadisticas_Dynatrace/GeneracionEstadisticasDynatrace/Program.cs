@@ -9,7 +9,8 @@ namespace GeneracionEstadisticasDynatrace
         {
             try
             {
-                string directorio = @"C:\Dynatrace\Ficheros";
+                // string directorio = @"C:\Dynatrace\Ficheros";
+                string directorio = @"C:\\Proyectos\\WebEstadisticas\\Documentacion\\Ficheros";
                 bool seguir = true;
                 int operacion = -1;
                 int anyo = 0;

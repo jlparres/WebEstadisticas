@@ -88,6 +88,17 @@
           <Property Name="Anyo" Type="int" Nullable="false" />
           <Property Name="NumDiasActividad" Type="int" Nullable="false" />
         </EntityType>
+        <EntityType Name="WS-END">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="WS_ID" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="WS_NOMBRE" Type="nchar" MaxLength="100" Nullable="false" />
+          <Property Name="ENDPOINT" Type="nchar" MaxLength="100" Nullable="false" />
+          <Property Name="ACCION" Type="nchar" MaxLength="50" />
+          <Property Name="ESTADO" Type="nchar" MaxLength="50" />
+        </EntityType>
         <EntityContainer Name="DATA_DYNAModelStoreContainer">
           <EntitySet Name="DatosDynatrace" EntityType="Self.DatosDynatrace" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="DatosDynatraceMes" EntityType="Self.DatosDynatraceMes" Schema="dbo" store:Type="Tables" />
@@ -95,6 +106,7 @@
           <EntitySet Name="WebRequestsDynatrace" EntityType="Self.WebRequestsDynatrace" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="WebRequestsDynatraceMes" EntityType="Self.WebRequestsDynatraceMes" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="WebRequestsDynatraceSemana" EntityType="Self.WebRequestsDynatraceSemana" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="WS-END" EntityType="Self.WS-END" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema></edmx:StorageModels>
     <!-- CSDL content -->
@@ -102,11 +114,12 @@
       <Schema Namespace="DATA_DYNAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityContainer Name="DATA_DYNAEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="DatosDynatrace" EntityType="DATA_DYNAModel.DatosDynatrace" />
-          <EntitySet Name="WebRequestsDynatrace" EntityType="DATA_DYNAModel.WebRequestsDynatrace" />
-          <EntitySet Name="WebRequestsDynatraceSemana" EntityType="DATA_DYNAModel.WebRequestsDynatraceSemana" />
-          <EntitySet Name="DatosDynatraceSemana" EntityType="DATA_DYNAModel.DatosDynatraceSemana" />
           <EntitySet Name="DatosDynatraceMes" EntityType="DATA_DYNAModel.DatosDynatraceMes" />
+          <EntitySet Name="DatosDynatraceSemana" EntityType="DATA_DYNAModel.DatosDynatraceSemana" />
+          <EntitySet Name="WebRequestsDynatrace" EntityType="DATA_DYNAModel.WebRequestsDynatrace" />
           <EntitySet Name="WebRequestsDynatraceMes" EntityType="DATA_DYNAModel.WebRequestsDynatraceMes" />
+          <EntitySet Name="WebRequestsDynatraceSemana" EntityType="DATA_DYNAModel.WebRequestsDynatraceSemana" />
+          <EntitySet Name="WS_END" EntityType="DATA_DYNAModel.WS_END" />
         </EntityContainer>
         <EntityType Name="DatosDynatrace">
           <Key>
@@ -122,29 +135,21 @@
           <Property Name="NumPercentil" Type="Int32" Nullable="false" />
           <Property Name="Fecha_dato" Type="DateTime" Nullable="false" Precision="3" />
         </EntityType>
-        <EntityType Name="WebRequestsDynatrace">
+        <EntityType Name="DatosDynatraceMes">
           <Key>
             <PropertyRef Name="ID" />
           </Key>
           <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="URI" Type="String" Nullable="false" MaxLength="150" FixedLength="true" Unicode="true" />
+          <Property Name="Metrica" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
           <Property Name="Canal" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
-          <Property Name="TasaFallo" Type="Single" Nullable="false" />
-          <Property Name="Numero" Type="Int32" Nullable="false" />
-          <Property Name="Fecha_dato" Type="DateTime" Nullable="false" Precision="3" />
-        </EntityType>
-        <EntityType Name="WebRequestsDynatraceSemana">
-          <Key>
-            <PropertyRef Name="ID" />
-          </Key>
-          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="URI" Type="String" Nullable="false" MaxLength="150" FixedLength="true" Unicode="true" />
-          <Property Name="Canal" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
-          <Property Name="TasaFallo" Type="Single" Nullable="false" />
-          <Property Name="Numero" Type="Int32" Nullable="false" />
-          <Property Name="Semana" Type="Int32" Nullable="false" />
-          <Property Name="NumDiasActividad" Type="Int32" Nullable="false" />
+          <Property Name="Excepciones" Type="Single" Nullable="false" />
+          <Property Name="Promedio" Type="Single" Nullable="false" />
+          <Property Name="Percentil95" Type="Single" Nullable="false" />
+          <Property Name="NumPromedio" Type="Single" Nullable="false" />
+          <Property Name="NumPercentil" Type="Single" Nullable="false" />
           <Property Name="Anyo" Type="Int32" Nullable="false" />
+          <Property Name="Mes" Type="Int32" Nullable="false" />
+          <Property Name="NumDiasActividad" Type="Int32" Nullable="false" />
         </EntityType>
         <EntityType Name="DatosDynatraceSemana">
           <Key>
@@ -162,21 +167,16 @@
           <Property Name="Semana" Type="Int32" Nullable="false" />
           <Property Name="Anyo" Type="Int32" Nullable="false" />
         </EntityType>
-        <EntityType Name="DatosDynatraceMes">
+        <EntityType Name="WebRequestsDynatrace">
           <Key>
             <PropertyRef Name="ID" />
           </Key>
           <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="Metrica" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="URI" Type="String" Nullable="false" MaxLength="150" FixedLength="true" Unicode="true" />
           <Property Name="Canal" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
-          <Property Name="Excepciones" Type="Single" Nullable="false" />
-          <Property Name="Promedio" Type="Single" Nullable="false" />
-          <Property Name="Percentil95" Type="Single" Nullable="false" />
-          <Property Name="NumPromedio" Type="Single" Nullable="false" />
-          <Property Name="NumPercentil" Type="Single" Nullable="false" />
-          <Property Name="Mes" Type="Int32" Nullable="false" />
-          <Property Name="NumDiasActividad" Type="Int32" Nullable="false" />
-          <Property Name="Anyo" Type="Int32" Nullable="false" />
+          <Property Name="TasaFallo" Type="Single" Nullable="false" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <Property Name="Fecha_dato" Type="DateTime" Nullable="false" Precision="3" />
         </EntityType>
         <EntityType Name="WebRequestsDynatraceMes">
           <Key>
@@ -187,11 +187,35 @@
           <Property Name="Canal" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
           <Property Name="TasaFallo" Type="Single" Nullable="false" />
           <Property Name="Numero" Type="Single" Nullable="false" />
+          <Property Name="Anyo" Type="Int32" Nullable="false" />
           <Property Name="Mes" Type="Int32" Nullable="false" />
           <Property Name="NumDiasActividad" Type="Int32" Nullable="false" />
-          <Property Name="Anyo" Type="Int32" Nullable="false" />
         </EntityType>
-      </Schema>
+        <EntityType Name="WebRequestsDynatraceSemana">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="URI" Type="String" Nullable="false" MaxLength="150" FixedLength="true" Unicode="true" />
+          <Property Name="Canal" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
+          <Property Name="TasaFallo" Type="Single" Nullable="false" />
+          <Property Name="Numero" Type="Single" Nullable="false" />
+          <Property Name="Semana" Type="Int32" Nullable="false" />
+          <Property Name="Anyo" Type="Int32" Nullable="false" />
+          <Property Name="NumDiasActividad" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WS_END">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="WS_ID" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="WS_NOMBRE" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="ENDPOINT" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="ACCION" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="ESTADO" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+        </EntityType>
+        </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
     <edmx:Mappings>
@@ -201,6 +225,40 @@
             <EntityTypeMapping TypeName="DATA_DYNAModel.DatosDynatrace">
               <MappingFragment StoreEntitySet="DatosDynatrace">
                 <ScalarProperty Name="Fecha_dato" ColumnName="Fecha_dato" />
+                <ScalarProperty Name="NumPercentil" ColumnName="NumPercentil" />
+                <ScalarProperty Name="NumPromedio" ColumnName="NumPromedio" />
+                <ScalarProperty Name="Percentil95" ColumnName="Percentil95" />
+                <ScalarProperty Name="Promedio" ColumnName="Promedio" />
+                <ScalarProperty Name="Excepciones" ColumnName="Excepciones" />
+                <ScalarProperty Name="Canal" ColumnName="Canal" />
+                <ScalarProperty Name="Metrica" ColumnName="Metrica" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DatosDynatraceMes">
+            <EntityTypeMapping TypeName="DATA_DYNAModel.DatosDynatraceMes">
+              <MappingFragment StoreEntitySet="DatosDynatraceMes">
+                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
+                <ScalarProperty Name="Mes" ColumnName="Mes" />
+                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
+                <ScalarProperty Name="NumPercentil" ColumnName="NumPercentil" />
+                <ScalarProperty Name="NumPromedio" ColumnName="NumPromedio" />
+                <ScalarProperty Name="Percentil95" ColumnName="Percentil95" />
+                <ScalarProperty Name="Promedio" ColumnName="Promedio" />
+                <ScalarProperty Name="Excepciones" ColumnName="Excepciones" />
+                <ScalarProperty Name="Canal" ColumnName="Canal" />
+                <ScalarProperty Name="Metrica" ColumnName="Metrica" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DatosDynatraceSemana">
+            <EntityTypeMapping TypeName="DATA_DYNAModel.DatosDynatraceSemana">
+              <MappingFragment StoreEntitySet="DatosDynatraceSemana">
+                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
+                <ScalarProperty Name="Semana" ColumnName="Semana" />
+                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
                 <ScalarProperty Name="NumPercentil" ColumnName="NumPercentil" />
                 <ScalarProperty Name="NumPromedio" ColumnName="NumPromedio" />
                 <ScalarProperty Name="Percentil95" ColumnName="Percentil95" />
@@ -224,64 +282,42 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
-          <EntitySetMapping Name="WebRequestsDynatraceSemana">
-            <EntityTypeMapping TypeName="DATA_DYNAModel.WebRequestsDynatraceSemana">
-              <MappingFragment StoreEntitySet="WebRequestsDynatraceSemana">
-                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
-                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
-                <ScalarProperty Name="Semana" ColumnName="Semana" />
-                <ScalarProperty Name="Numero" ColumnName="Numero" />
-                <ScalarProperty Name="TasaFallo" ColumnName="TasaFallo" />
-                <ScalarProperty Name="Canal" ColumnName="Canal" />
-                <ScalarProperty Name="URI" ColumnName="URI" />
-                <ScalarProperty Name="ID" ColumnName="ID" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="DatosDynatraceSemana">
-            <EntityTypeMapping TypeName="DATA_DYNAModel.DatosDynatraceSemana">
-              <MappingFragment StoreEntitySet="DatosDynatraceSemana">
-                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
-                <ScalarProperty Name="Semana" ColumnName="Semana" />
-                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
-                <ScalarProperty Name="NumPercentil" ColumnName="NumPercentil" />
-                <ScalarProperty Name="NumPromedio" ColumnName="NumPromedio" />
-                <ScalarProperty Name="Percentil95" ColumnName="Percentil95" />
-                <ScalarProperty Name="Promedio" ColumnName="Promedio" />
-                <ScalarProperty Name="Excepciones" ColumnName="Excepciones" />
-                <ScalarProperty Name="Canal" ColumnName="Canal" />
-                <ScalarProperty Name="Metrica" ColumnName="Metrica" />
-                <ScalarProperty Name="ID" ColumnName="ID" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="DatosDynatraceMes">
-            <EntityTypeMapping TypeName="DATA_DYNAModel.DatosDynatraceMes">
-              <MappingFragment StoreEntitySet="DatosDynatraceMes">
-                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
-                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
-                <ScalarProperty Name="Mes" ColumnName="Mes" />
-                <ScalarProperty Name="NumPercentil" ColumnName="NumPercentil" />
-                <ScalarProperty Name="NumPromedio" ColumnName="NumPromedio" />
-                <ScalarProperty Name="Percentil95" ColumnName="Percentil95" />
-                <ScalarProperty Name="Promedio" ColumnName="Promedio" />
-                <ScalarProperty Name="Excepciones" ColumnName="Excepciones" />
-                <ScalarProperty Name="Canal" ColumnName="Canal" />
-                <ScalarProperty Name="Metrica" ColumnName="Metrica" />
-                <ScalarProperty Name="ID" ColumnName="ID" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
           <EntitySetMapping Name="WebRequestsDynatraceMes">
             <EntityTypeMapping TypeName="DATA_DYNAModel.WebRequestsDynatraceMes">
               <MappingFragment StoreEntitySet="WebRequestsDynatraceMes">
-                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
                 <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
                 <ScalarProperty Name="Mes" ColumnName="Mes" />
+                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
                 <ScalarProperty Name="Numero" ColumnName="Numero" />
                 <ScalarProperty Name="TasaFallo" ColumnName="TasaFallo" />
                 <ScalarProperty Name="Canal" ColumnName="Canal" />
                 <ScalarProperty Name="URI" ColumnName="URI" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WebRequestsDynatraceSemana">
+            <EntityTypeMapping TypeName="DATA_DYNAModel.WebRequestsDynatraceSemana">
+              <MappingFragment StoreEntitySet="WebRequestsDynatraceSemana">
+                <ScalarProperty Name="NumDiasActividad" ColumnName="NumDiasActividad" />
+                <ScalarProperty Name="Anyo" ColumnName="Anyo" />
+                <ScalarProperty Name="Semana" ColumnName="Semana" />
+                <ScalarProperty Name="Numero" ColumnName="Numero" />
+                <ScalarProperty Name="TasaFallo" ColumnName="TasaFallo" />
+                <ScalarProperty Name="Canal" ColumnName="Canal" />
+                <ScalarProperty Name="URI" ColumnName="URI" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WS_END">
+            <EntityTypeMapping TypeName="DATA_DYNAModel.WS_END">
+              <MappingFragment StoreEntitySet="WS-END">
+                <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+                <ScalarProperty Name="ACCION" ColumnName="ACCION" />
+                <ScalarProperty Name="ENDPOINT" ColumnName="ENDPOINT" />
+                <ScalarProperty Name="WS_NOMBRE" ColumnName="WS_NOMBRE" />
+                <ScalarProperty Name="WS_ID" ColumnName="WS_ID" />
                 <ScalarProperty Name="ID" ColumnName="ID" />
               </MappingFragment>
             </EntityTypeMapping>

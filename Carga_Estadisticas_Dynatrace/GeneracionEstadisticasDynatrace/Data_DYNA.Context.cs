@@ -34,15 +34,17 @@ public partial class DATA_DYNAEntities : DbContext
 
     public virtual DbSet<DatosDynatrace> DatosDynatrace { get; set; }
 
-    public virtual DbSet<WebRequestsDynatrace> WebRequestsDynatrace { get; set; }
-
-    public virtual DbSet<WebRequestsDynatraceSemana> WebRequestsDynatraceSemana { get; set; }
+    public virtual DbSet<DatosDynatraceMes> DatosDynatraceMes { get; set; }
 
     public virtual DbSet<DatosDynatraceSemana> DatosDynatraceSemana { get; set; }
 
-    public virtual DbSet<DatosDynatraceMes> DatosDynatraceMes { get; set; }
+    public virtual DbSet<WebRequestsDynatrace> WebRequestsDynatrace { get; set; }
 
     public virtual DbSet<WebRequestsDynatraceMes> WebRequestsDynatraceMes { get; set; }
+
+    public virtual DbSet<WebRequestsDynatraceSemana> WebRequestsDynatraceSemana { get; set; }
+
+    public virtual DbSet<WS_END> WS_END { get; set; }
 
 }
 
