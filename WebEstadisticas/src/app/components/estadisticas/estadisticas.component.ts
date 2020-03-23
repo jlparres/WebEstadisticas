@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { EstadisticasService } from '../services/estadisticas.service';
+import { EstadisticasService } from '../../services/estadisticas.service';
 import { IEstadisticas, IDatosDynatrace } from '../estadisticas/IDatosDynatrace';
 // import { NgbDate } from '@ng-bootstrap/ng-bootstrap';
 // import { StockChart } from 'angular-highcharts';

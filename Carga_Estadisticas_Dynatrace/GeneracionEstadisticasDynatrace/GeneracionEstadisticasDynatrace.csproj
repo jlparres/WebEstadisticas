@@ -152,11 +152,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AppData\SQL\Cambiar_Nombre_BD.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\PROCEDURE_HistorificarMes.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\PROCEDURE_HistorificarSemana.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\PROCEDURE_LlamadasTotalesDiarias.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\PROCEDURE_PromedioDiario.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\PROCEDURE_QuitarDecimales.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\SQL_Procedures.sql" />
+    <Content Include="AppData\SQL\PROCEDURES\SQL_Selects.sql" />
     <Content Include="AppData\SQL\Querys.sql" />
     <Content Include="AppData\SQL\Scritp_CREATE_DATABASE.sql" />
     <Content Include="AppData\SQL\Scritp_CREATE_DATABASE_NVARCHAR.sql" />
     <Content Include="AppData\SQL\SELECT.sql" />
     <Content Include="AppData\SQL\SELECT_Dynatrace.sql" />
+    <Content Include="AppData\SQL\SELECT_Llamadas_Promedio.sql" />
+    <Content Include="AppData\SQL\SELECT_TotalLlamadas.sql" />
+    <Content Include="AppData\SQL\SQLPromedio.sql" />
     <Content Include="Data_DYNA.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Data_DYNA.Context.cs</LastGenOutput>

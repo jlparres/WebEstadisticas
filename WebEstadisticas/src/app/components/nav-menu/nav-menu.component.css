@@ -1,0 +1,5 @@
+/* Navbar CSS */
+.navbar-nav .link-active {
+    color: white;
+    /* border-bottom: 3px solid blue; */
+}

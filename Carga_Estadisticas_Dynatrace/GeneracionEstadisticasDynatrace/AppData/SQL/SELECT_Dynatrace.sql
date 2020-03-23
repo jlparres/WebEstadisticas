@@ -33,13 +33,6 @@ ORDER BY Anyo, Mes DESC;
 
 
 
-
-
-
-
-
-
-
 SELECT Metrica, Canal, COUNT(*) AS Cantidad
 FROM DatosDynatrace 
 WHERE Fecha_dato >= '20181112' AND Fecha_dato <= '20181118' 
