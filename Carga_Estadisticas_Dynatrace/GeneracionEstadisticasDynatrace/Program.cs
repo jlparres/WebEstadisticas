@@ -9,8 +9,8 @@ namespace GeneracionEstadisticasDynatrace
         {
             try
             {
-                // string directorio = @"C:\Dynatrace\Ficheros";
-                string directorio = @"C:\\Proyectos\\WebEstadisticas\\Documentacion\\Ficheros";
+                string directorio = @"C:\Dynatrace\Ficheros";
+                // string directorio = @"C:\\Proyectos\\WebEstadisticas\\Documentacion\\Ficheros";
                 bool seguir = true;
                 int operacion = -1;
                 int anyo = 0;
@@ -39,8 +39,8 @@ namespace GeneracionEstadisticasDynatrace
                             Registro.Mensaje(string.Format("Cargando Estadísticas de la ruta {0}", directorio));
                             CargaEstadisticas.Carga(0, directorio);
                             break;
-                        case 1:
-
+                        case 2:
+                            // No se va a historificar nada desde codigo, lo voy a historificar con un PROCEDURE
                             //int periodo = calc.GetUltimaSemanaHistorificada(out anyo);
                             if (Historificacion.GetUltimaSemanaHistorificada(out periodo, out anyo))
                             {
@@ -67,6 +67,9 @@ namespace GeneracionEstadisticasDynatrace
                             //Registro.Mensaje("Operacion no implementada. Solo se permite 0, 1, 2 y 99 para Salir.");
                             break;
                     }
+
+                    iteracion++;
+
                     if (iteracion > 5)
                     {
                         Registro.Mensaje("Ha finalizado correctamente la carga de datos e historificación de los mismos.");

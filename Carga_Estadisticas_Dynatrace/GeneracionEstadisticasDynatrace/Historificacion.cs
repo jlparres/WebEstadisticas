@@ -200,7 +200,7 @@ namespace GeneracionEstadisticasDynatrace
                     DateTime fechaFin = new Week(anyo, periodo).LastDayOfWeek.AddDays(1);
 
                     //HISTORIFICACION DE MÉTODOS
-                    var query = db.DatosDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<DatosDynatraceSemana>();
+                    var query = db.DatosDynatraceSemana.Where(s => s.Semana == periodo && s.Anyo == anyo).FirstOrDefault<DatosDynatraceSemana>();
                     if (query != null) //Ya se ha historificado
                     {
                         Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));
@@ -252,7 +252,7 @@ namespace GeneracionEstadisticasDynatrace
                     }
 
                     //HISTORIFICACION DE WEBREQUEST
-                    var query2 = db.WebRequestsDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<WebRequestsDynatraceSemana>();
+                    var query2 = db.WebRequestsDynatraceSemana.Where(s => s.Semana == periodo && s.Anyo == anyo).FirstOrDefault<WebRequestsDynatraceSemana>();
                     if (query2 != null) //Ya se ha historificado
                     {
                         Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));
@@ -313,7 +313,7 @@ namespace GeneracionEstadisticasDynatrace
                     DateTime fechaInicial = new DateTime(anyo, periodo, 1);
                     DateTime fechaFin = fechaInicial.AddMonths(1).AddDays(-1);
                     //HISTORIFICACION DE MÉTODOS
-                    var query = db.DatosDynatraceMes.Where(s => s.Mes == periodo).FirstOrDefault<DatosDynatraceMes>();
+                    var query = db.DatosDynatraceMes.Where(s => s.Mes == periodo && s.Anyo == anyo).FirstOrDefault<DatosDynatraceMes>();
                     if (query != null) //Ya se ha historificado
                     {
                         Registro.Mensaje(string.Format("El mes {0} ya está historificado", periodo));
@@ -365,7 +365,7 @@ namespace GeneracionEstadisticasDynatrace
                     }
 
                     //HISTORIFICACION DE WEBREQUEST
-                    var query2 = db.WebRequestsDynatraceMes.Where(s => s.Mes == periodo).FirstOrDefault<WebRequestsDynatraceMes>();
+                    var query2 = db.WebRequestsDynatraceMes.Where(s => s.Mes == periodo && s.Anyo == anyo).FirstOrDefault<WebRequestsDynatraceMes>();
                     if (query2 != null) //Ya se ha historificado
                     {
                         Registro.Mensaje(string.Format("El mes {0} ya está historificado", periodo));
@@ -428,7 +428,7 @@ namespace GeneracionEstadisticasDynatrace
                 DateTime fechaFin = new Week(anyo, periodo).LastDayOfWeek.AddDays(1);
 
                 //HISTORIFICACION DE MÉTODOS
-                var query = db.DatosDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<DatosDynatraceSemana>();
+                var query = db.DatosDynatraceSemana.Where(s => s.Semana == periodo && s.Anyo == anyo).FirstOrDefault<DatosDynatraceSemana>();
                 if (query != null) //Ya se ha historificado
                 {
                     Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));
@@ -493,7 +493,7 @@ namespace GeneracionEstadisticasDynatrace
                 DateTime fechaInicial = new Week(anyo, periodo).FirstDayOfWeek;
                 DateTime fechaFin = new Week(anyo, periodo).LastDayOfWeek.AddDays(1);
                 //HISTORIFICACION DE WEBREQUEST
-                var query2 = db.WebRequestsDynatraceSemana.Where(s => s.Semana == periodo).FirstOrDefault<WebRequestsDynatraceSemana>();
+                var query2 = db.WebRequestsDynatraceSemana.Where(s => s.Semana == periodo && s.Anyo == anyo).FirstOrDefault<WebRequestsDynatraceSemana>();
                 if (query2 != null) //Ya se ha historificado
                 {
                     Registro.Mensaje(string.Format("La semana {0} ya está historificada", periodo));

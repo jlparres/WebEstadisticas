@@ -85,3 +85,17 @@ GROUP BY Fecha_dato, Metrica;
 SELECT * 
 FROM DatosDynatrace 
 WHERE Fecha_dato = '01/11/2018' AND Metrica LIKE '%WS8_Obtener%'
+
+
+-- VOLUMETRIA POR CANAL
+SELECT Fecha_dato, COUNT(*) AS Cantidad 
+FROM DatosDynatrace 
+GROUP BY Fecha_dato
+ORDER BY Fecha_dato ASC;
+
+SELECT Fecha_dato AS Dia, Canal, Metrica AS WebService, NumPromedio
+FROM DatosDynatrace
+WHERE Canal = 'IIS-DXL                       ' AND Metrica = 'WS254_LoginAccount                                '
+	AND Fecha_dato >= '20200101' --AND Fecha_dato < '20200201'
+GROUP BY Canal, Metrica, Fecha_dato, NumPromedio
+ORDER BY Fecha_dato ASC;

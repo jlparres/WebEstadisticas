@@ -151,6 +151,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AppData\SQL\Cambiar_Nombre_BD.sql" />
+    <Content Include="AppData\SQL\Querys.sql" />
+    <Content Include="AppData\SQL\Scritp_CREATE_DATABASE.sql" />
+    <Content Include="AppData\SQL\Scritp_CREATE_DATABASE_NVARCHAR.sql" />
+    <Content Include="AppData\SQL\SELECT.sql" />
+    <Content Include="AppData\SQL\SELECT_Dynatrace.sql" />
     <Content Include="Data_DYNA.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Data_DYNA.Context.cs</LastGenOutput>
