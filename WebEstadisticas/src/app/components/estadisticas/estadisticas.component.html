@@ -10,7 +10,31 @@
   </div>
 </div>
 -->
-<div class="container">
-  <p>Estadísticas</p>
+<div class="cabecera">
+  <div class="row my-4">
+    <dic class="container">
+
+      <div class="row">
+        <div class="dropdown col-md-6">
+           <select class="form-control form-control-md ng-valid ng-touched ng-dirty">
+              <option selected="" value="-1">Selecciona una métrica...</option>
+              <option value="WSV1C00015_Fin_AMLT">WSV1C00015_Fin_AMLT</option>
+              <option value="WS108_AnularTicketTIO">WS108_AnularTicketTIO</option>
+           </select>
+        </div>
+        <div class="dropdown col-md-6">
+           <select class="form-control form-control-md ng-valid ng-dirty ng-touched">
+              <option selected="" value="-1">Selecciona un canal...</option>
+              <!---->
+              <option value="TODOS">TODOS</option>
+              <option value="Default Application">Default Application</option>
+              <option value="BLUU">BLUU</option>
+           </select>
+        </div>
+     </div>
+
+
+    </dic>
+  </div>
 </div>
 <div [chart]="stock"></div>

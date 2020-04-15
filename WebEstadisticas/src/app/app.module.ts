@@ -9,6 +9,7 @@ import { HomeComponent } from './components/home/home.component';
 import { EstadisticasService } from './services/estadisticas.service';
 import { EstadisticasComponent } from './components/estadisticas/estadisticas.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { CertificatesComponent } from './components/certificates/certificates.component';
 
 import { appRoutingProviders, routing } from './app.routing';
 
@@ -27,7 +28,8 @@ export function highchartsModules() {
     NavMenuComponent,
     HomeComponent,
     EstadisticasComponent,
-    FooterComponent
+    FooterComponent,
+    CertificatesComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
