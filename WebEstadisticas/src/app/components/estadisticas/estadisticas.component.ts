@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { EstadisticasService } from '../../services/estadisticas.service';
 import { IEstadisticas, IDatosDynatrace } from '../estadisticas/IDatosDynatrace';
+
+import { StockChart } from 'angular-highcharts';
 // import { NgbDate } from '@ng-bootstrap/ng-bootstrap';
-// import { StockChart } from 'angular-highcharts';
-import * as Highcharts from 'highcharts';
+// import * as Highcharts from 'highcharts';
 
 @Component({
   selector: 'app-estadisticas',
@@ -16,7 +17,7 @@ export class EstadisticasComponent implements OnInit {
   metricas: string[] | undefined;
 
   // Tabla de graficos
-  // stock: StockChart;
+  stock: StockChart;
 
   constructor(private estadisticasService: EstadisticasService) { }
 
@@ -49,26 +50,26 @@ export class EstadisticasComponent implements OnInit {
 
     //(Excepciones / NumPromedio) * 100
 
-    //console.log("this.datos", this.datosEstadisticas);
+    console.log("this.datos", this.datosEstadisticas);
 
     this.datosEstadisticas.forEach(function (element, index) {
-      const auxDate = new Date(element["fecha"]).getTime();
+      const auxDate = new Date(element["Fecha"]).getTime();
       let auxExcepcion = 0;
 
-      if (element["promedio"] != null && element["promedio"] > 0 && element["excepcion"] != null && element["excepcion"] > 0) {
-        let aux = (element["excepcion"] / element["promedio"]);
+      if (element["Promedio"] != null && element["Promedio"] > 0 && element["Excepciones"] != null && element["Excepciones"] > 0) {
+        let aux = (element["Excepciones"] / element["Promedio"]);
 
         auxExcepcion = parseFloat(aux.toFixed(2));
       }
       
-      volumetria.push([auxDate, element["volumetria"]]);
-      promedio.push([auxDate, parseFloat(element["promedio"].toFixed(2))]);
-      percentil.push([auxDate, element["percentil"]]);
-      percentil95.push([auxDate, parseFloat(element["percentil95"].toFixed(2))]);
-      excepcion.push([auxDate, element["excepcion"]]);
+      volumetria.push([auxDate, element["Volumetria"]]);
+      promedio.push([auxDate, parseFloat(element["Promedio"].toFixed(2))]);
+      percentil.push([auxDate, element["Percentil"]]);
+      //percentil95.push([auxDate, parseFloat(element["Percentil95"].toFixed(2))]);
+      excepcion.push([auxDate, element["Excepciones"]]);
       promedioExcepciones.push([auxDate, auxExcepcion]);
     });
-/*
+
     this.stock = new StockChart({
       chart: {
         type: 'line', //line, bar,
@@ -82,19 +83,19 @@ export class EstadisticasComponent implements OnInit {
       },
       yAxis: {
         title: {
-          text: 'Núm Peticiones'
+          text: 'Peticiones / Promedios'
         }
       },
       rangeSelector: {
         selected: 1,
         inputPosition: {
-          align: 'left',
+          align: 'right',
           x: 0,
           y: 0
         }
       },
       title: {
-        text: 'Peticiones Dynatrace'
+        text: 'Volumetrias por Web Services'
       },
       legend: {
         enabled: true,
@@ -105,27 +106,34 @@ export class EstadisticasComponent implements OnInit {
         y: 100
       },
       series: [
-      {
-        name: 'Volumetria',
-        data: volumetria
-      },
-      {
-        name: 'Percentil',
-        data: percentil
-      },
-      {
-        name: 'Percentil95',
-        data: percentil95
-      },
-      {
-        name: 'Excepciones',
-        data: excepcion
-      },
-      {
-        name: '% Excepciones',
-        data: promedioExcepciones
-      }],
+        {
+          tooltip: { valueDecimals: 0 },
+          name: 'Volumetria', 
+          data: volumetria,
+          type: undefined
+        },
+        {
+          tooltip: { valueDecimals: 0 },
+          name: 'Promedio (ms)', 
+          data: promedio,
+          type: undefined
+        },
+        {
+          tooltip: { valueDecimals: 0 },
+          name: 'Excepciones', 
+          data: excepcion,
+          type: undefined
+        },
+        {
+          tooltip: { valueDecimals: 2 },
+          name: '% Excepciones', 
+          data: promedioExcepciones,
+          type: undefined,
+          dashStyle: 'ShortDot'
+        }
+      ]
     });
-    */
+  
+    console.log("Stock", this.stock);
   }
 }

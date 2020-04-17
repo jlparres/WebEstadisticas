@@ -4,6 +4,8 @@ import { PlatformLocation } from '@angular/common';
 
 @Injectable()
 export class EstadisticasService {
+  // Configuración entorno
+
   /* localhost */
   //private apiURLByDate = (this.platformLocation as any).location.origin + "/api/Estadisticas/GetStatisticsByDate";
   //private apiURLByFilter = (this.platformLocation as any).location.origin + "/api/Estadisticas/GetStatisticsByFilter";
@@ -11,11 +13,23 @@ export class EstadisticasService {
 
 
   /* PRE */
+  /*
   private apiURL = (this.platformLocation as any).location.origin + "/WebEstadisticas/api/Estadisticas";
   private apiURLByDate = (this.platformLocation as any).location.origin + "/WebEstadisticas/api/Estadisticas/GetStatisticsByDate";
   private apiURLByFilter = (this.platformLocation as any).location.origin + "/WebEstadisticas/api/Estadisticas/GetStatisticsByFilter";
   private apiGetMetricas = (this.platformLocation as any).location.origin + "/WebEstadisticas/api/Estadisticas/GetMetricas";
+  */
 
+  // De Local a Remoto
+  // https://10.15.230.181:100/ApiEstadisticas/api/Estadisticas/GetMetricas
+  // https://10.15.230.181:100/ApiEstadisticas/api/Estadisticas/GetData?metrica=WS8_ObtenerDatosCliente&canal=TODOS
+
+  private apiURL = "https://10.15.230.181:100" + "/ApiEstadisticas/api/Estadisticas";
+  private apiURLByDate = "https://10.15.230.181:100" + "/ApiEstadisticas/api/Estadisticas/GetStatisticsByDate";
+  private apiURLByFilter = "https://10.15.230.181:100" + "/ApiEstadisticas/api/Estadisticas/GetStatisticsByFilter";
+  private apiGetMetricas = "https://10.15.230.181:100" + "/ApiEstadisticas/api/Estadisticas/GetMetricas";
+
+  private apiGetData = "https://10.15.230.181:100" + "/ApiEstadisticas/api/Estadisticas/GetData";;
 
   private params = new HttpParams();
   private canal = "TODOS";
@@ -96,6 +110,22 @@ export class EstadisticasService {
     this.params = this.params.append('canal', this.canal);
     this.params = this.params.append('fechaInicio', this.fechaInicio);
     this.params = this.params.append('fechaFin', this.fechaFin);
+
+    console.log("Fichero", './assets/GetDataByFilter.json');
+    return this.http.get('assets/GetDataByFilter.json', { responseType: 'json' });
+        //.subscribe(data => console.log(data));
+
+    return this.http.get(this.apiURLByFilter, { params: this.params });
+  }
+
+  getData() {
+    // https://10.15.230.181:100/ApiEstadisticas/api/Estadisticas/GetData?metrica=WS8_ObtenerDatosCliente&canal=TODOS
+    // apiGetData
+    this.params = this.params.append('metrica', this.metrica);
+    this.params = this.params.append('canal', this.canal);
+
+    console.log("Location", (this.platformLocation as any).location);
+    console.log("GET", this.apiURLByFilter);
 
     return this.http.get(this.apiURLByFilter, { params: this.params });
   }

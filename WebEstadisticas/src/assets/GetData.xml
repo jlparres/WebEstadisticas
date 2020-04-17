@@ -1,0 +1,6382 @@
+<ArrayOfDynatraceData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ApiEstadisticas.ViewModels">
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>935</Excepciones>
+<Fecha>2018-08-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>295139</Percentil>
+<Percentil95>1710</Percentil95>
+<Promedio>434</Promedio>
+<Volumetria>299437</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3113</Excepciones>
+<Fecha>2018-08-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>274595</Percentil>
+<Percentil95>1224</Percentil95>
+<Promedio>394</Promedio>
+<Volumetria>379142</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2491</Excepciones>
+<Fecha>2018-08-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>302286</Percentil>
+<Percentil95>1327</Percentil95>
+<Promedio>413</Promedio>
+<Volumetria>342769</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2250</Excepciones>
+<Fecha>2018-08-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>468288</Percentil>
+<Percentil95>1083</Percentil95>
+<Promedio>324</Promedio>
+<Volumetria>468289</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4267</Excepciones>
+<Fecha>2018-08-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>499745</Percentil>
+<Percentil95>1267</Percentil95>
+<Promedio>384</Promedio>
+<Volumetria>524003</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3342</Excepciones>
+<Fecha>2018-08-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>341785</Percentil>
+<Percentil95>1299</Percentil95>
+<Promedio>413</Promedio>
+<Volumetria>428074</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1606</Excepciones>
+<Fecha>2018-08-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>383920</Percentil>
+<Percentil95>1153</Percentil95>
+<Promedio>334</Promedio>
+<Volumetria>395161</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>996</Excepciones>
+<Fecha>2018-08-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>314390</Percentil>
+<Percentil95>1881</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>314392</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4603</Excepciones>
+<Fecha>2018-08-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>508178</Percentil>
+<Percentil95>1431</Percentil95>
+<Promedio>466</Promedio>
+<Volumetria>526233</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4402</Excepciones>
+<Fecha>2018-08-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>470848</Percentil>
+<Percentil95>1460</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>513358</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4009</Excepciones>
+<Fecha>2018-08-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>389370</Percentil>
+<Percentil95>1446</Percentil95>
+<Promedio>472</Promedio>
+<Volumetria>479892</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4475</Excepciones>
+<Fecha>2018-08-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>550385</Percentil>
+<Percentil95>1474</Percentil95>
+<Promedio>468</Promedio>
+<Volumetria>550385</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4474</Excepciones>
+<Fecha>2018-08-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>521825</Percentil>
+<Percentil95>1486</Percentil95>
+<Promedio>463</Promedio>
+<Volumetria>521826</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1764</Excepciones>
+<Fecha>2018-08-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>351742</Percentil>
+<Percentil95>1174</Percentil95>
+<Promedio>352</Promedio>
+<Volumetria>351743</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>815</Excepciones>
+<Fecha>2018-08-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>334765</Percentil>
+<Percentil95>1735</Percentil95>
+<Promedio>437</Promedio>
+<Volumetria>339300</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6327</Excepciones>
+<Fecha>2018-08-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>683658</Percentil>
+<Percentil95>1483</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>683649</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5961</Excepciones>
+<Fecha>2018-08-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>622630</Percentil>
+<Percentil95>1500</Percentil95>
+<Promedio>490</Promedio>
+<Volumetria>622641</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5555</Excepciones>
+<Fecha>2018-08-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>604654</Percentil>
+<Percentil95>1519</Percentil95>
+<Promedio>501</Promedio>
+<Volumetria>604652</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5321</Excepciones>
+<Fecha>2018-08-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>571834</Percentil>
+<Percentil95>1518</Percentil95>
+<Promedio>495</Promedio>
+<Volumetria>571819</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5093</Excepciones>
+<Fecha>2018-08-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>558916</Percentil>
+<Percentil95>1532</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>558935</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1882</Excepciones>
+<Fecha>2018-09-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>383276</Percentil>
+<Percentil95>1250</Percentil95>
+<Promedio>366</Promedio>
+<Volumetria>383254</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>816</Excepciones>
+<Fecha>2018-09-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>302649</Percentil>
+<Percentil95>1856</Percentil95>
+<Promedio>458</Promedio>
+<Volumetria>306924</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5875</Excepciones>
+<Fecha>2018-09-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>575113</Percentil>
+<Percentil95>1556</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>575115</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6407</Excepciones>
+<Fecha>2018-09-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>535325</Percentil>
+<Percentil95>1622</Percentil95>
+<Promedio>534</Promedio>
+<Volumetria>535345</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5547</Excepciones>
+<Fecha>2018-09-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>536028</Percentil>
+<Percentil95>1620</Percentil95>
+<Promedio>468</Promedio>
+<Volumetria>536024</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5641</Excepciones>
+<Fecha>2018-09-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>491356</Percentil>
+<Percentil95>1554</Percentil95>
+<Promedio>472</Promedio>
+<Volumetria>491354</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5158</Excepciones>
+<Fecha>2018-09-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>515169</Percentil>
+<Percentil95>1652</Percentil95>
+<Promedio>515</Promedio>
+<Volumetria>515151</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1975</Excepciones>
+<Fecha>2018-09-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>267939</Percentil>
+<Percentil95>1240</Percentil95>
+<Promedio>351</Promedio>
+<Volumetria>267952</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1227</Excepciones>
+<Fecha>2018-09-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>304618</Percentil>
+<Percentil95>1891</Percentil95>
+<Promedio>454</Promedio>
+<Volumetria>308528</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6542</Excepciones>
+<Fecha>2018-09-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>570108</Percentil>
+<Percentil95>2062</Percentil95>
+<Promedio>638</Promedio>
+<Volumetria>570113</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6197</Excepciones>
+<Fecha>2018-09-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>536529</Percentil>
+<Percentil95>1866</Percentil95>
+<Promedio>557</Promedio>
+<Volumetria>536530</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6930</Excepciones>
+<Fecha>2018-09-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>537311</Percentil>
+<Percentil95>1708</Percentil95>
+<Promedio>543</Promedio>
+<Volumetria>537308</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7121</Excepciones>
+<Fecha>2018-09-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>563556</Percentil>
+<Percentil95>1746</Percentil95>
+<Promedio>553</Promedio>
+<Volumetria>563555</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7480</Excepciones>
+<Fecha>2018-09-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>533098</Percentil>
+<Percentil95>1642</Percentil95>
+<Promedio>552</Promedio>
+<Volumetria>533094</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2743</Excepciones>
+<Fecha>2018-09-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>339266</Percentil>
+<Percentil95>1835</Percentil95>
+<Promedio>452</Promedio>
+<Volumetria>339264</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1264</Excepciones>
+<Fecha>2018-09-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>295794</Percentil>
+<Percentil95>2704</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>295806</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8992</Excepciones>
+<Fecha>2018-09-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>605587</Percentil>
+<Percentil95>1662</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>605589</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8739</Excepciones>
+<Fecha>2018-09-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>704750</Percentil>
+<Percentil95>1626</Percentil95>
+<Promedio>493</Promedio>
+<Volumetria>704748</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8114</Excepciones>
+<Fecha>2018-09-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>670038</Percentil>
+<Percentil95>1757</Percentil95>
+<Promedio>506</Promedio>
+<Volumetria>670036</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8120</Excepciones>
+<Fecha>2018-09-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>665170</Percentil>
+<Percentil95>1882</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>665164</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6067</Excepciones>
+<Fecha>2018-09-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>488705</Percentil>
+<Percentil95>1672</Percentil95>
+<Promedio>478</Promedio>
+<Volumetria>491212</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3424</Excepciones>
+<Fecha>2018-09-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>383301</Percentil>
+<Percentil95>1220</Percentil95>
+<Promedio>343</Promedio>
+<Volumetria>383300</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2172</Excepciones>
+<Fecha>2018-09-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>330752</Percentil>
+<Percentil95>1674</Percentil95>
+<Promedio>413</Promedio>
+<Volumetria>334437</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8076</Excepciones>
+<Fecha>2018-09-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>568882</Percentil>
+<Percentil95>1564</Percentil95>
+<Promedio>447</Promedio>
+<Volumetria>568885</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6994</Excepciones>
+<Fecha>2018-09-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>556383</Percentil>
+<Percentil95>1657</Percentil95>
+<Promedio>482</Promedio>
+<Volumetria>573208</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7701</Excepciones>
+<Fecha>2018-09-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>661099</Percentil>
+<Percentil95>1940</Percentil95>
+<Promedio>544</Promedio>
+<Volumetria>660919</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8124</Excepciones>
+<Fecha>2018-09-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>758975</Percentil>
+<Percentil95>1931</Percentil95>
+<Promedio>552</Promedio>
+<Volumetria>759543</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7658</Excepciones>
+<Fecha>2018-09-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>672346</Percentil>
+<Percentil95>1783</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>670973</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3950</Excepciones>
+<Fecha>2018-09-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>432701</Percentil>
+<Percentil95>1231</Percentil95>
+<Promedio>349</Promedio>
+<Volumetria>431229</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1970</Excepciones>
+<Fecha>2018-09-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>372191</Percentil>
+<Percentil95>1708</Percentil95>
+<Promedio>403</Promedio>
+<Volumetria>372214</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8740</Excepciones>
+<Fecha>2018-10-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>791114</Percentil>
+<Percentil95>1576</Percentil95>
+<Promedio>462</Promedio>
+<Volumetria>790034</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7243</Excepciones>
+<Fecha>2018-10-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>696630</Percentil>
+<Percentil95>1753</Percentil95>
+<Promedio>506</Promedio>
+<Volumetria>696051</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8036</Excepciones>
+<Fecha>2018-10-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>631570</Percentil>
+<Percentil95>2263</Percentil95>
+<Promedio>903</Promedio>
+<Volumetria>630133</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7020</Excepciones>
+<Fecha>2018-10-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>581384</Percentil>
+<Percentil95>1638</Percentil95>
+<Promedio>478</Promedio>
+<Volumetria>580837</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6582</Excepciones>
+<Fecha>2018-10-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>596124</Percentil>
+<Percentil95>1635</Percentil95>
+<Promedio>466</Promedio>
+<Volumetria>594411</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2778</Excepciones>
+<Fecha>2018-10-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>437901</Percentil>
+<Percentil95>1410</Percentil95>
+<Promedio>403</Promedio>
+<Volumetria>435735</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2193</Excepciones>
+<Fecha>2018-10-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>363103</Percentil>
+<Percentil95>2468</Percentil95>
+<Promedio>630</Promedio>
+<Volumetria>363106</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8977</Excepciones>
+<Fecha>2018-10-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>773031</Percentil>
+<Percentil95>2632</Percentil95>
+<Promedio>633</Promedio>
+<Volumetria>771971</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7381</Excepciones>
+<Fecha>2018-10-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>654601</Percentil>
+<Percentil95>2486</Percentil95>
+<Promedio>648</Promedio>
+<Volumetria>653995</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7253</Excepciones>
+<Fecha>2018-10-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>645537</Percentil>
+<Percentil95>2046</Percentil95>
+<Promedio>563</Promedio>
+<Volumetria>644504</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3307</Excepciones>
+<Fecha>2018-10-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>641371</Percentil>
+<Percentil95>2041</Percentil95>
+<Promedio>597</Promedio>
+<Volumetria>299821</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2278</Excepciones>
+<Fecha>2018-10-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>378603</Percentil>
+<Percentil95>1489</Percentil95>
+<Promedio>432</Promedio>
+<Volumetria>376982</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2280</Excepciones>
+<Fecha>2018-10-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>355458</Percentil>
+<Percentil95>1441</Percentil95>
+<Promedio>427</Promedio>
+<Volumetria>355459</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1889</Excepciones>
+<Fecha>2018-10-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>333844</Percentil>
+<Percentil95>2001</Percentil95>
+<Promedio>549</Promedio>
+<Volumetria>333848</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9859</Excepciones>
+<Fecha>2018-10-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>764775</Percentil>
+<Percentil95>6192</Percentil95>
+<Promedio>1703</Promedio>
+<Volumetria>763905</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9612</Excepciones>
+<Fecha>2018-10-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>624717</Percentil>
+<Percentil95>3220</Percentil95>
+<Promedio>1048</Promedio>
+<Volumetria>639695</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7295</Excepciones>
+<Fecha>2018-10-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>660676</Percentil>
+<Percentil95>2058</Percentil95>
+<Promedio>577</Promedio>
+<Volumetria>660659</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5627</Excepciones>
+<Fecha>2018-10-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>613399</Percentil>
+<Percentil95>1980</Percentil95>
+<Promedio>559</Promedio>
+<Volumetria>613399</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6347</Excepciones>
+<Fecha>2018-10-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>677275</Percentil>
+<Percentil95>1965</Percentil95>
+<Promedio>557</Promedio>
+<Volumetria>677281</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2476</Excepciones>
+<Fecha>2018-10-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>396927</Percentil>
+<Percentil95>1473</Percentil95>
+<Promedio>425</Promedio>
+<Volumetria>396926</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3359</Excepciones>
+<Fecha>2018-10-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>347198</Percentil>
+<Percentil95>5634</Percentil95>
+<Promedio>1995</Promedio>
+<Volumetria>348512</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8056</Excepciones>
+<Fecha>2018-10-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>651434</Percentil>
+<Percentil95>1960</Percentil95>
+<Promedio>548</Promedio>
+<Volumetria>651407</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6852</Excepciones>
+<Fecha>2018-10-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>619678</Percentil>
+<Percentil95>2111</Percentil95>
+<Promedio>599</Promedio>
+<Volumetria>619673</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6728</Excepciones>
+<Fecha>2018-10-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>597296</Percentil>
+<Percentil95>2201</Percentil95>
+<Promedio>634</Promedio>
+<Volumetria>597295</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6293</Excepciones>
+<Fecha>2018-10-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>597160</Percentil>
+<Percentil95>2295</Percentil95>
+<Promedio>650</Promedio>
+<Volumetria>597161</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5669</Excepciones>
+<Fecha>2018-10-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>659478</Percentil>
+<Percentil95>2053</Percentil95>
+<Promedio>598</Promedio>
+<Volumetria>659477</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2556</Excepciones>
+<Fecha>2018-10-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>438950</Percentil>
+<Percentil95>1445</Percentil95>
+<Promedio>422</Promedio>
+<Volumetria>438950</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2443</Excepciones>
+<Fecha>2018-10-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>466382</Percentil>
+<Percentil95>2010</Percentil95>
+<Promedio>496</Promedio>
+<Volumetria>466383</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6610</Excepciones>
+<Fecha>2018-10-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>736481</Percentil>
+<Percentil95>1966</Percentil95>
+<Promedio>558</Promedio>
+<Volumetria>736485</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6627</Excepciones>
+<Fecha>2018-10-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>765592</Percentil>
+<Percentil95>1895</Percentil95>
+<Promedio>538</Promedio>
+<Volumetria>765611</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6005</Excepciones>
+<Fecha>2018-10-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>708564</Percentil>
+<Percentil95>1869</Percentil95>
+<Promedio>538</Promedio>
+<Volumetria>708549</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7141</Excepciones>
+<Fecha>2018-11-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>484098</Percentil>
+<Percentil95>14384</Percentil95>
+<Promedio>2595</Promedio>
+<Volumetria>484098</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>50142</Excepciones>
+<Fecha>2018-11-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>610265</Percentil>
+<Percentil95>34618</Percentil95>
+<Promedio>9531</Promedio>
+<Volumetria>610261</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2574</Excepciones>
+<Fecha>2018-11-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>399113</Percentil>
+<Percentil95>1340</Percentil95>
+<Promedio>399</Promedio>
+<Volumetria>399111</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2002</Excepciones>
+<Fecha>2018-11-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>361517</Percentil>
+<Percentil95>2093</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>366250</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8930</Excepciones>
+<Fecha>2018-11-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>749642</Percentil>
+<Percentil95>1904</Percentil95>
+<Promedio>547</Promedio>
+<Volumetria>749644</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6361</Excepciones>
+<Fecha>2018-11-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>742188</Percentil>
+<Percentil95>1937</Percentil95>
+<Promedio>553</Promedio>
+<Volumetria>742315</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6639</Excepciones>
+<Fecha>2018-11-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>727498</Percentil>
+<Percentil95>1931</Percentil95>
+<Promedio>571</Promedio>
+<Volumetria>727371</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6094</Excepciones>
+<Fecha>2018-11-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>679352</Percentil>
+<Percentil95>1980</Percentil95>
+<Promedio>590</Promedio>
+<Volumetria>679350</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5446</Excepciones>
+<Fecha>2018-11-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>624060</Percentil>
+<Percentil95>1706</Percentil95>
+<Promedio>521</Promedio>
+<Volumetria>624048</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2625</Excepciones>
+<Fecha>2018-11-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>424729</Percentil>
+<Percentil95>1301</Percentil95>
+<Promedio>382</Promedio>
+<Volumetria>424721</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1680</Excepciones>
+<Fecha>2018-11-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>377489</Percentil>
+<Percentil95>1632</Percentil95>
+<Promedio>423</Promedio>
+<Volumetria>377513</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6884</Excepciones>
+<Fecha>2018-11-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>764947</Percentil>
+<Percentil95>1704</Percentil95>
+<Promedio>507</Promedio>
+<Volumetria>764928</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7635</Excepciones>
+<Fecha>2018-11-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>811491</Percentil>
+<Percentil95>1890</Percentil95>
+<Promedio>567</Promedio>
+<Volumetria>811489</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9332</Excepciones>
+<Fecha>2018-11-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>861900</Percentil>
+<Percentil95>1746</Percentil95>
+<Promedio>584</Promedio>
+<Volumetria>861943</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7011</Excepciones>
+<Fecha>2018-11-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>685495</Percentil>
+<Percentil95>6127</Percentil95>
+<Promedio>1609</Promedio>
+<Volumetria>685452</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5299</Excepciones>
+<Fecha>2018-11-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>621925</Percentil>
+<Percentil95>1789</Percentil95>
+<Promedio>537</Promedio>
+<Volumetria>621926</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2093</Excepciones>
+<Fecha>2018-11-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>362593</Percentil>
+<Percentil95>1336</Percentil95>
+<Promedio>407</Promedio>
+<Volumetria>362594</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1832</Excepciones>
+<Fecha>2018-11-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>395187</Percentil>
+<Percentil95>1833</Percentil95>
+<Promedio>460</Promedio>
+<Volumetria>394591</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7444</Excepciones>
+<Fecha>2018-11-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>717801</Percentil>
+<Percentil95>1798</Percentil95>
+<Promedio>520</Promedio>
+<Volumetria>717791</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7347</Excepciones>
+<Fecha>2018-11-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>836550</Percentil>
+<Percentil95>1866</Percentil95>
+<Promedio>539</Promedio>
+<Volumetria>836544</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6734</Excepciones>
+<Fecha>2018-11-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>761595</Percentil>
+<Percentil95>1939</Percentil95>
+<Promedio>550</Promedio>
+<Volumetria>761602</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6787</Excepciones>
+<Fecha>2018-11-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>679062</Percentil>
+<Percentil95>1984</Percentil95>
+<Promedio>599</Promedio>
+<Volumetria>679057</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5479</Excepciones>
+<Fecha>2018-11-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>613550</Percentil>
+<Percentil95>1818</Percentil95>
+<Promedio>553</Promedio>
+<Volumetria>613540</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2536</Excepciones>
+<Fecha>2018-11-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>406505</Percentil>
+<Percentil95>1330</Percentil95>
+<Promedio>399</Promedio>
+<Volumetria>406505</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2169</Excepciones>
+<Fecha>2018-11-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>381762</Percentil>
+<Percentil95>2037</Percentil95>
+<Promedio>509</Promedio>
+<Volumetria>381771</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7378</Excepciones>
+<Fecha>2018-11-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>748900</Percentil>
+<Percentil95>1861</Percentil95>
+<Promedio>560</Promedio>
+<Volumetria>748912</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8225</Excepciones>
+<Fecha>2018-11-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>746329</Percentil>
+<Percentil95>1891</Percentil95>
+<Promedio>572</Promedio>
+<Volumetria>746313</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8143</Excepciones>
+<Fecha>2018-11-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>801945</Percentil>
+<Percentil95>1828</Percentil95>
+<Promedio>564</Promedio>
+<Volumetria>801948</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7625</Excepciones>
+<Fecha>2018-11-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>710318</Percentil>
+<Percentil95>2048</Percentil95>
+<Promedio>652</Promedio>
+<Volumetria>710320</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10187</Excepciones>
+<Fecha>2018-11-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>706608</Percentil>
+<Percentil95>2505</Percentil95>
+<Promedio>690</Promedio>
+<Volumetria>706633</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3381</Excepciones>
+<Fecha>2018-12-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>465771</Percentil>
+<Percentil95>1425</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>465741</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2175</Excepciones>
+<Fecha>2018-12-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>372136</Percentil>
+<Percentil95>1900</Percentil95>
+<Promedio>558</Promedio>
+<Volumetria>376728</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7782</Excepciones>
+<Fecha>2018-12-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>714711</Percentil>
+<Percentil95>1905</Percentil95>
+<Promedio>731</Promedio>
+<Volumetria>714711</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>43460</Excepciones>
+<Fecha>2018-12-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>726590</Percentil>
+<Percentil95>2506</Percentil95>
+<Promedio>1119</Promedio>
+<Volumetria>726655</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6171</Excepciones>
+<Fecha>2018-12-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>684133</Percentil>
+<Percentil95>2585</Percentil95>
+<Promedio>779</Promedio>
+<Volumetria>684112</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3853</Excepciones>
+<Fecha>2018-12-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>514287</Percentil>
+<Percentil95>1663</Percentil95>
+<Promedio>697</Promedio>
+<Volumetria>514275</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12557</Excepciones>
+<Fecha>2018-12-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>721441</Percentil>
+<Percentil95>3660</Percentil95>
+<Promedio>1311</Promedio>
+<Volumetria>721412</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2405</Excepciones>
+<Fecha>2018-12-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>418167</Percentil>
+<Percentil95>1566</Percentil95>
+<Promedio>736</Promedio>
+<Volumetria>418164</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1927</Excepciones>
+<Fecha>2018-12-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>434780</Percentil>
+<Percentil95>2418</Percentil95>
+<Promedio>867</Promedio>
+<Volumetria>434813</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7348</Excepciones>
+<Fecha>2018-12-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>786347</Percentil>
+<Percentil95>3318</Percentil95>
+<Promedio>1479</Promedio>
+<Volumetria>786321</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12814</Excepciones>
+<Fecha>2018-12-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>778690</Percentil>
+<Percentil95>3305</Percentil95>
+<Promedio>1346</Promedio>
+<Volumetria>778686</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6699</Excepciones>
+<Fecha>2018-12-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>746381</Percentil>
+<Percentil95>1870</Percentil95>
+<Promedio>571</Promedio>
+<Volumetria>746380</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7418</Excepciones>
+<Fecha>2018-12-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>749871</Percentil>
+<Percentil95>1955</Percentil95>
+<Promedio>597</Promedio>
+<Volumetria>749937</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6602</Excepciones>
+<Fecha>2018-12-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>728379</Percentil>
+<Percentil95>5486</Percentil95>
+<Promedio>1433</Promedio>
+<Volumetria>728317</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3363</Excepciones>
+<Fecha>2018-12-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>473692</Percentil>
+<Percentil95>1584</Percentil95>
+<Promedio>447</Promedio>
+<Volumetria>473688</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2173</Excepciones>
+<Fecha>2018-12-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>424331</Percentil>
+<Percentil95>1925</Percentil95>
+<Promedio>482</Promedio>
+<Volumetria>429196</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7845</Excepciones>
+<Fecha>2018-12-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>724796</Percentil>
+<Percentil95>2669</Percentil95>
+<Promedio>716</Promedio>
+<Volumetria>724807</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6532</Excepciones>
+<Fecha>2018-12-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>735630</Percentil>
+<Percentil95>2272</Percentil95>
+<Promedio>651</Promedio>
+<Volumetria>735616</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6840</Excepciones>
+<Fecha>2018-12-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>753648</Percentil>
+<Percentil95>2259</Percentil95>
+<Promedio>681</Promedio>
+<Volumetria>753657</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7227</Excepciones>
+<Fecha>2018-12-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>730132</Percentil>
+<Percentil95>1809</Percentil95>
+<Promedio>576</Promedio>
+<Volumetria>730131</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4487</Excepciones>
+<Fecha>2018-12-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>560509</Percentil>
+<Percentil95>1576</Percentil95>
+<Promedio>517</Promedio>
+<Volumetria>560513</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3193</Excepciones>
+<Fecha>2018-12-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>482976</Percentil>
+<Percentil95>1172</Percentil95>
+<Promedio>386</Promedio>
+<Volumetria>482979</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2030</Excepciones>
+<Fecha>2018-12-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>396277</Percentil>
+<Percentil95>1819</Percentil95>
+<Promedio>474</Promedio>
+<Volumetria>401338</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3774</Excepciones>
+<Fecha>2018-12-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>452338</Percentil>
+<Percentil95>2366</Percentil95>
+<Promedio>662</Promedio>
+<Volumetria>452354</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1790</Excepciones>
+<Fecha>2018-12-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>391482</Percentil>
+<Percentil95>1129</Percentil95>
+<Promedio>365</Promedio>
+<Volumetria>391472</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7345</Excepciones>
+<Fecha>2018-12-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>767900</Percentil>
+<Percentil95>1512</Percentil95>
+<Promedio>492</Promedio>
+<Volumetria>767892</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7432</Excepciones>
+<Fecha>2018-12-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>776478</Percentil>
+<Percentil95>1992</Percentil95>
+<Promedio>591</Promedio>
+<Volumetria>776478</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7663</Excepciones>
+<Fecha>2018-12-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>815798</Percentil>
+<Percentil95>1656</Percentil95>
+<Promedio>534</Promedio>
+<Volumetria>815811</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3569</Excepciones>
+<Fecha>2018-12-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>542881</Percentil>
+<Percentil95>1049</Percentil95>
+<Promedio>350</Promedio>
+<Volumetria>542870</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2005</Excepciones>
+<Fecha>2018-12-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>408922</Percentil>
+<Percentil95>1681</Percentil95>
+<Promedio>442</Promedio>
+<Volumetria>414252</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4387</Excepciones>
+<Fecha>2018-12-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>523401</Percentil>
+<Percentil95>1192</Percentil95>
+<Promedio>404</Promedio>
+<Volumetria>523385</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2049</Excepciones>
+<Fecha>2019-01-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>459668</Percentil>
+<Percentil95>1026</Percentil95>
+<Promedio>335</Promedio>
+<Volumetria>459678</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8853</Excepciones>
+<Fecha>2019-01-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>852628</Percentil>
+<Percentil95>1264</Percentil95>
+<Promedio>435</Promedio>
+<Volumetria>852629</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7367</Excepciones>
+<Fecha>2019-01-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>820193</Percentil>
+<Percentil95>1548</Percentil95>
+<Promedio>516</Promedio>
+<Volumetria>820202</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7089</Excepciones>
+<Fecha>2019-01-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>722734</Percentil>
+<Percentil95>1667</Percentil95>
+<Promedio>550</Promedio>
+<Volumetria>722728</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2995</Excepciones>
+<Fecha>2019-01-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>462900</Percentil>
+<Percentil95>1183</Percentil95>
+<Promedio>390</Promedio>
+<Volumetria>462907</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2278</Excepciones>
+<Fecha>2019-01-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>394401</Percentil>
+<Percentil95>1722</Percentil95>
+<Promedio>428</Promedio>
+<Volumetria>399955</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5962</Excepciones>
+<Fecha>2019-01-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>631926</Percentil>
+<Percentil95>1284</Percentil95>
+<Promedio>425</Promedio>
+<Volumetria>631891</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8111</Excepciones>
+<Fecha>2019-01-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>759527</Percentil>
+<Percentil95>1703</Percentil95>
+<Promedio>545</Promedio>
+<Volumetria>759528</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7411</Excepciones>
+<Fecha>2019-01-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>697294</Percentil>
+<Percentil95>1640</Percentil95>
+<Promedio>562</Promedio>
+<Volumetria>697299</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>177979</Excepciones>
+<Fecha>2019-01-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>877706</Percentil>
+<Percentil95>3677</Percentil95>
+<Promedio>2441</Promedio>
+<Volumetria>877719</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7585</Excepciones>
+<Fecha>2019-01-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>776126</Percentil>
+<Percentil95>1548</Percentil95>
+<Promedio>498</Promedio>
+<Volumetria>776107</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3603</Excepciones>
+<Fecha>2019-01-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>433474</Percentil>
+<Percentil95>1266</Percentil95>
+<Promedio>398</Promedio>
+<Volumetria>433471</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2636</Excepciones>
+<Fecha>2019-01-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>390172</Percentil>
+<Percentil95>2373</Percentil95>
+<Promedio>617</Promedio>
+<Volumetria>390186</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7763</Excepciones>
+<Fecha>2019-01-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>748737</Percentil>
+<Percentil95>2299</Percentil95>
+<Promedio>749</Promedio>
+<Volumetria>746641</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6987</Excepciones>
+<Fecha>2019-01-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>741688</Percentil>
+<Percentil95>2123</Percentil95>
+<Promedio>647</Promedio>
+<Volumetria>738057</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8239</Excepciones>
+<Fecha>2019-01-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>814759</Percentil>
+<Percentil95>1756</Percentil95>
+<Promedio>573</Promedio>
+<Volumetria>814772</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7585</Excepciones>
+<Fecha>2019-01-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>664654</Percentil>
+<Percentil95>1863</Percentil95>
+<Promedio>626</Promedio>
+<Volumetria>664642</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6590</Excepciones>
+<Fecha>2019-01-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>670564</Percentil>
+<Percentil95>1833</Percentil95>
+<Promedio>575</Promedio>
+<Volumetria>671337</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3894</Excepciones>
+<Fecha>2019-01-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>489039</Percentil>
+<Percentil95>1245</Percentil95>
+<Promedio>418</Promedio>
+<Volumetria>489038</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2163</Excepciones>
+<Fecha>2019-01-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>386346</Percentil>
+<Percentil95>1751</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>387837</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8007</Excepciones>
+<Fecha>2019-01-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>756823</Percentil>
+<Percentil95>1601</Percentil95>
+<Promedio>545</Promedio>
+<Volumetria>756815</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9010</Excepciones>
+<Fecha>2019-01-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>735365</Percentil>
+<Percentil95>6116</Percentil95>
+<Promedio>1557</Promedio>
+<Volumetria>740308</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6493</Excepciones>
+<Fecha>2019-01-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>671222</Percentil>
+<Percentil95>3158</Percentil95>
+<Promedio>749</Promedio>
+<Volumetria>671217</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5909</Excepciones>
+<Fecha>2019-01-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>617430</Percentil>
+<Percentil95>1571</Percentil95>
+<Promedio>524</Promedio>
+<Volumetria>617437</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5879</Excepciones>
+<Fecha>2019-01-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>652511</Percentil>
+<Percentil95>1634</Percentil95>
+<Promedio>565</Promedio>
+<Volumetria>652535</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2424</Excepciones>
+<Fecha>2019-01-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>375215</Percentil>
+<Percentil95>1078</Percentil95>
+<Promedio>353</Promedio>
+<Volumetria>375210</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1773</Excepciones>
+<Fecha>2019-01-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>366581</Percentil>
+<Percentil95>2259</Percentil95>
+<Promedio>599</Promedio>
+<Volumetria>366579</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5570</Excepciones>
+<Fecha>2019-01-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>556660</Percentil>
+<Percentil95>1941</Percentil95>
+<Promedio>614</Promedio>
+<Volumetria>584179</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4507</Excepciones>
+<Fecha>2019-01-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>533508</Percentil>
+<Percentil95>1942</Percentil95>
+<Promedio>638</Promedio>
+<Volumetria>533720</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4748</Excepciones>
+<Fecha>2019-01-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>550349</Percentil>
+<Percentil95>1843</Percentil95>
+<Promedio>609</Promedio>
+<Volumetria>553642</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>32388</Excepciones>
+<Fecha>2019-01-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>627352</Percentil>
+<Percentil95>14508</Percentil95>
+<Promedio>2820</Promedio>
+<Volumetria>631599</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4862</Excepciones>
+<Fecha>2019-02-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>526682</Percentil>
+<Percentil95>1624</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>527005</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10102</Excepciones>
+<Fecha>2019-02-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>356226</Percentil>
+<Percentil95>1743</Percentil95>
+<Promedio>535</Promedio>
+<Volumetria>356226</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1856</Excepciones>
+<Fecha>2019-02-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>331470</Percentil>
+<Percentil95>1477</Percentil95>
+<Promedio>396</Promedio>
+<Volumetria>333732</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3858</Excepciones>
+<Fecha>2019-02-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>330612</Percentil>
+<Percentil95>1159</Percentil95>
+<Promedio>600</Promedio>
+<Volumetria>370841</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5861</Excepciones>
+<Fecha>2019-02-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>650064</Percentil>
+<Percentil95>1326</Percentil95>
+<Promedio>419</Promedio>
+<Volumetria>650139</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6771</Excepciones>
+<Fecha>2019-02-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>678965</Percentil>
+<Percentil95>1497</Percentil95>
+<Promedio>481</Promedio>
+<Volumetria>679027</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5687</Excepciones>
+<Fecha>2019-02-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>674237</Percentil>
+<Percentil95>1351</Percentil95>
+<Promedio>420</Promedio>
+<Volumetria>674272</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6301</Excepciones>
+<Fecha>2019-02-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>638184</Percentil>
+<Percentil95>1325</Percentil95>
+<Promedio>451</Promedio>
+<Volumetria>638234</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3324</Excepciones>
+<Fecha>2019-02-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>413606</Percentil>
+<Percentil95>1076</Percentil95>
+<Promedio>348</Promedio>
+<Volumetria>413606</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2649</Excepciones>
+<Fecha>2019-02-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>389092</Percentil>
+<Percentil95>1890</Percentil95>
+<Promedio>473</Promedio>
+<Volumetria>376862</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7521</Excepciones>
+<Fecha>2019-02-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>726717</Percentil>
+<Percentil95>1266</Percentil95>
+<Promedio>409</Promedio>
+<Volumetria>726877</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7847</Excepciones>
+<Fecha>2019-02-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>767532</Percentil>
+<Percentil95>1407</Percentil95>
+<Promedio>435</Promedio>
+<Volumetria>767694</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8295</Excepciones>
+<Fecha>2019-02-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>773008</Percentil>
+<Percentil95>1467</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>773158</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5709</Excepciones>
+<Fecha>2019-02-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>744317</Percentil>
+<Percentil95>1319</Percentil95>
+<Promedio>413</Promedio>
+<Volumetria>744707</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5038</Excepciones>
+<Fecha>2019-02-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>645584</Percentil>
+<Percentil95>1297</Percentil95>
+<Promedio>406</Promedio>
+<Volumetria>645556</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3468</Excepciones>
+<Fecha>2019-02-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>391275</Percentil>
+<Percentil95>973</Percentil95>
+<Promedio>292</Promedio>
+<Volumetria>391275</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1792</Excepciones>
+<Fecha>2019-02-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>381129</Percentil>
+<Percentil95>1452</Percentil95>
+<Promedio>368</Promedio>
+<Volumetria>385574</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6673</Excepciones>
+<Fecha>2019-02-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>719842</Percentil>
+<Percentil95>2765</Percentil95>
+<Promedio>682</Promedio>
+<Volumetria>719847</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7367</Excepciones>
+<Fecha>2019-02-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>920757</Percentil>
+<Percentil95>1480</Percentil95>
+<Promedio>454</Promedio>
+<Volumetria>920775</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6772</Excepciones>
+<Fecha>2019-02-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>897090</Percentil>
+<Percentil95>1434</Percentil95>
+<Promedio>454</Promedio>
+<Volumetria>897728</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5600</Excepciones>
+<Fecha>2019-02-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>725579</Percentil>
+<Percentil95>1347</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>725573</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5133</Excepciones>
+<Fecha>2019-02-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>667592</Percentil>
+<Percentil95>1663</Percentil95>
+<Promedio>544</Promedio>
+<Volumetria>667596</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2218</Excepciones>
+<Fecha>2019-02-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>401679</Percentil>
+<Percentil95>1063</Percentil95>
+<Promedio>408</Promedio>
+<Volumetria>401676</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1524</Excepciones>
+<Fecha>2019-02-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>433423</Percentil>
+<Percentil95>2034</Percentil95>
+<Promedio>567</Promedio>
+<Volumetria>433425</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4094</Excepciones>
+<Fecha>2019-02-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>841510</Percentil>
+<Percentil95>2068</Percentil95>
+<Promedio>648</Promedio>
+<Volumetria>841511</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4273</Excepciones>
+<Fecha>2019-02-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>825795</Percentil>
+<Percentil95>1572</Percentil95>
+<Promedio>557</Promedio>
+<Volumetria>825861</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3997</Excepciones>
+<Fecha>2019-02-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>801373</Percentil>
+<Percentil95>1851</Percentil95>
+<Promedio>636</Promedio>
+<Volumetria>801534</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3576</Excepciones>
+<Fecha>2019-02-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>747135</Percentil>
+<Percentil95>1758</Percentil95>
+<Promedio>605</Promedio>
+<Volumetria>747067</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3904</Excepciones>
+<Fecha>2019-03-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>805761</Percentil>
+<Percentil95>1433</Percentil95>
+<Promedio>542</Promedio>
+<Volumetria>805788</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1988</Excepciones>
+<Fecha>2019-03-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>579414</Percentil>
+<Percentil95>1044</Percentil95>
+<Promedio>382</Promedio>
+<Volumetria>579415</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1353</Excepciones>
+<Fecha>2019-03-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>452081</Percentil>
+<Percentil95>1896</Percentil95>
+<Promedio>539</Promedio>
+<Volumetria>457875</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5079</Excepciones>
+<Fecha>2019-03-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>860339</Percentil>
+<Percentil95>2071</Percentil95>
+<Promedio>688</Promedio>
+<Volumetria>860353</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10106</Excepciones>
+<Fecha>2019-03-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>773392</Percentil>
+<Percentil95>8709</Percentil95>
+<Promedio>3816</Promedio>
+<Volumetria>773386</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3954</Excepciones>
+<Fecha>2019-03-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>802356</Percentil>
+<Percentil95>1776</Percentil95>
+<Promedio>611</Promedio>
+<Volumetria>802368</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6827</Excepciones>
+<Fecha>2019-03-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>738082</Percentil>
+<Percentil95>1710</Percentil95>
+<Promedio>611</Promedio>
+<Volumetria>738105</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>59704</Excepciones>
+<Fecha>2019-03-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>372088</Percentil>
+<Percentil95>27641</Percentil95>
+<Promedio>4979</Promedio>
+<Volumetria>372074</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2944</Excepciones>
+<Fecha>2019-03-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>496778</Percentil>
+<Percentil95>3127</Percentil95>
+<Promedio>933</Promedio>
+<Volumetria>496785</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1338</Excepciones>
+<Fecha>2019-03-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>455958</Percentil>
+<Percentil95>1848</Percentil95>
+<Promedio>532</Promedio>
+<Volumetria>461164</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4802</Excepciones>
+<Fecha>2019-03-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>870501</Percentil>
+<Percentil95>1451</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>870633</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6753</Excepciones>
+<Fecha>2019-03-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>930177</Percentil>
+<Percentil95>1388</Percentil95>
+<Promedio>491</Promedio>
+<Volumetria>930309</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6237</Excepciones>
+<Fecha>2019-03-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>999294</Percentil>
+<Percentil95>1948</Percentil95>
+<Promedio>622</Promedio>
+<Volumetria>999489</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5962</Excepciones>
+<Fecha>2019-03-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>775032</Percentil>
+<Percentil95>1868</Percentil95>
+<Promedio>576</Promedio>
+<Volumetria>776196</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5010</Excepciones>
+<Fecha>2019-03-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>733578</Percentil>
+<Percentil95>1471</Percentil95>
+<Promedio>491</Promedio>
+<Volumetria>733595</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2079</Excepciones>
+<Fecha>2019-03-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>475411</Percentil>
+<Percentil95>1092</Percentil95>
+<Promedio>396</Promedio>
+<Volumetria>475397</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1378</Excepciones>
+<Fecha>2019-03-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>402185</Percentil>
+<Percentil95>1827</Percentil95>
+<Promedio>561</Promedio>
+<Volumetria>402186</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5846</Excepciones>
+<Fecha>2019-03-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>720165</Percentil>
+<Percentil95>1634</Percentil95>
+<Promedio>573</Promedio>
+<Volumetria>720175</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4718</Excepciones>
+<Fecha>2019-03-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>704193</Percentil>
+<Percentil95>1458</Percentil95>
+<Promedio>533</Promedio>
+<Volumetria>704209</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5598</Excepciones>
+<Fecha>2019-03-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>904517</Percentil>
+<Percentil95>1687</Percentil95>
+<Promedio>581</Promedio>
+<Volumetria>904534</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5129</Excepciones>
+<Fecha>2019-03-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>797586</Percentil>
+<Percentil95>1636</Percentil95>
+<Promedio>571</Promedio>
+<Volumetria>797669</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4438</Excepciones>
+<Fecha>2019-03-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>703862</Percentil>
+<Percentil95>1775</Percentil95>
+<Promedio>598</Promedio>
+<Volumetria>703862</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1915</Excepciones>
+<Fecha>2019-03-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>388856</Percentil>
+<Percentil95>1203</Percentil95>
+<Promedio>436</Promedio>
+<Volumetria>388849</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1707</Excepciones>
+<Fecha>2019-03-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>381872</Percentil>
+<Percentil95>2272</Percentil95>
+<Promedio>673</Promedio>
+<Volumetria>381873</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6001</Excepciones>
+<Fecha>2019-03-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>723105</Percentil>
+<Percentil95>1906</Percentil95>
+<Promedio>650</Promedio>
+<Volumetria>723341</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7945</Excepciones>
+<Fecha>2019-03-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>710551</Percentil>
+<Percentil95>4330</Percentil95>
+<Promedio>1532</Promedio>
+<Volumetria>710932</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7360</Excepciones>
+<Fecha>2019-03-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>759717</Percentil>
+<Percentil95>2860</Percentil95>
+<Promedio>869</Promedio>
+<Volumetria>760033</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4668</Excepciones>
+<Fecha>2019-03-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>756732</Percentil>
+<Percentil95>2642</Percentil95>
+<Promedio>803</Promedio>
+<Volumetria>757315</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4562</Excepciones>
+<Fecha>2019-03-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>768137</Percentil>
+<Percentil95>1751</Percentil95>
+<Promedio>642</Promedio>
+<Volumetria>768941</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2191</Excepciones>
+<Fecha>2019-03-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>505698</Percentil>
+<Percentil95>1306</Percentil95>
+<Promedio>486</Promedio>
+<Volumetria>505606</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1466</Excepciones>
+<Fecha>2019-03-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>441624</Percentil>
+<Percentil95>2000</Percentil95>
+<Promedio>606</Promedio>
+<Volumetria>449392</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5573</Excepciones>
+<Fecha>2019-04-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>836957</Percentil>
+<Percentil95>2330</Percentil95>
+<Promedio>751</Promedio>
+<Volumetria>837137</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>69362</Excepciones>
+<Fecha>2019-04-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>853198</Percentil>
+<Percentil95>3240</Percentil95>
+<Promedio>906</Promedio>
+<Volumetria>868165</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5031</Excepciones>
+<Fecha>2019-04-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>832730</Percentil>
+<Percentil95>1877</Percentil95>
+<Promedio>672</Promedio>
+<Volumetria>833163</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4579</Excepciones>
+<Fecha>2019-04-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>867770</Percentil>
+<Percentil95>1591</Percentil95>
+<Promedio>591</Promedio>
+<Volumetria>868095</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4526</Excepciones>
+<Fecha>2019-04-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>755073</Percentil>
+<Percentil95>1566</Percentil95>
+<Promedio>573</Promedio>
+<Volumetria>755269</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2060</Excepciones>
+<Fecha>2019-04-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>579985</Percentil>
+<Percentil95>1207</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>579981</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1413</Excepciones>
+<Fecha>2019-04-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>497140</Percentil>
+<Percentil95>2137</Percentil95>
+<Promedio>599</Promedio>
+<Volumetria>497154</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5566</Excepciones>
+<Fecha>2019-04-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>919319</Percentil>
+<Percentil95>1940</Percentil95>
+<Promedio>642</Promedio>
+<Volumetria>920155</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5812</Excepciones>
+<Fecha>2019-04-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>853802</Percentil>
+<Percentil95>2035</Percentil95>
+<Promedio>685</Promedio>
+<Volumetria>854003</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5329</Excepciones>
+<Fecha>2019-04-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>889639</Percentil>
+<Percentil95>2005</Percentil95>
+<Promedio>671</Promedio>
+<Volumetria>889995</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4412</Excepciones>
+<Fecha>2019-04-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>822689</Percentil>
+<Percentil95>1712</Percentil95>
+<Promedio>610</Promedio>
+<Volumetria>822894</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4375</Excepciones>
+<Fecha>2019-04-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>779591</Percentil>
+<Percentil95>1637</Percentil95>
+<Promedio>602</Promedio>
+<Volumetria>779692</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1960</Excepciones>
+<Fecha>2019-04-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>465904</Percentil>
+<Percentil95>1237</Percentil95>
+<Promedio>430</Promedio>
+<Volumetria>465894</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2608</Excepciones>
+<Fecha>2019-04-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>727580</Percentil>
+<Percentil95>2149</Percentil95>
+<Promedio>594</Promedio>
+<Volumetria>727583</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4885</Excepciones>
+<Fecha>2019-04-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>878165</Percentil>
+<Percentil95>1525</Percentil95>
+<Promedio>554</Promedio>
+<Volumetria>878178</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6526</Excepciones>
+<Fecha>2019-04-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>793009</Percentil>
+<Percentil95>1745</Percentil95>
+<Promedio>593</Promedio>
+<Volumetria>782194</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5962</Excepciones>
+<Fecha>2019-04-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>725619</Percentil>
+<Percentil95>1854</Percentil95>
+<Promedio>645</Promedio>
+<Volumetria>706796</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2292</Excepciones>
+<Fecha>2019-04-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>588766</Percentil>
+<Percentil95>1434</Percentil95>
+<Promedio>516</Promedio>
+<Volumetria>588748</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1423</Excepciones>
+<Fecha>2019-04-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>501500</Percentil>
+<Percentil95>1306</Percentil95>
+<Promedio>476</Promedio>
+<Volumetria>501510</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1892</Excepciones>
+<Fecha>2019-04-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>487666</Percentil>
+<Percentil95>1308</Percentil95>
+<Promedio>470</Promedio>
+<Volumetria>487660</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1287</Excepciones>
+<Fecha>2019-04-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>436065</Percentil>
+<Percentil95>2144</Percentil95>
+<Promedio>618</Promedio>
+<Volumetria>436067</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4347</Excepciones>
+<Fecha>2019-04-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>841514</Percentil>
+<Percentil95>1601</Percentil95>
+<Promedio>554</Promedio>
+<Volumetria>823563</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6593</Excepciones>
+<Fecha>2019-04-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1021988</Percentil>
+<Percentil95>1722</Percentil95>
+<Promedio>588</Promedio>
+<Volumetria>1021979</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7372</Excepciones>
+<Fecha>2019-04-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1062609</Percentil>
+<Percentil95>2857</Percentil95>
+<Promedio>813</Promedio>
+<Volumetria>1062675</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5925</Excepciones>
+<Fecha>2019-04-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1054432</Percentil>
+<Percentil95>1821</Percentil95>
+<Promedio>589</Promedio>
+<Volumetria>1064513</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4712</Excepciones>
+<Fecha>2019-04-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>820360</Percentil>
+<Percentil95>1803</Percentil95>
+<Promedio>597</Promedio>
+<Volumetria>820465</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1940</Excepciones>
+<Fecha>2019-04-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>516851</Percentil>
+<Percentil95>1213</Percentil95>
+<Promedio>424</Promedio>
+<Volumetria>516851</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1410</Excepciones>
+<Fecha>2019-04-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>471711</Percentil>
+<Percentil95>2246</Percentil95>
+<Promedio>601</Promedio>
+<Volumetria>471719</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5627</Excepciones>
+<Fecha>2019-04-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>984997</Percentil>
+<Percentil95>2473</Percentil95>
+<Promedio>729</Promedio>
+<Volumetria>985203</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5125</Excepciones>
+<Fecha>2019-04-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>978337</Percentil>
+<Percentil95>3494</Percentil95>
+<Promedio>999</Promedio>
+<Volumetria>978504</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2465</Excepciones>
+<Fecha>2019-05-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>705461</Percentil>
+<Percentil95>1226</Percentil95>
+<Promedio>422</Promedio>
+<Volumetria>705468</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7696</Excepciones>
+<Fecha>2019-05-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>892835</Percentil>
+<Percentil95>3290</Percentil95>
+<Promedio>937</Promedio>
+<Volumetria>893286</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4577</Excepciones>
+<Fecha>2019-05-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>870720</Percentil>
+<Percentil95>3071</Percentil95>
+<Promedio>860</Promedio>
+<Volumetria>871197</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2251</Excepciones>
+<Fecha>2019-05-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>551087</Percentil>
+<Percentil95>1600</Percentil95>
+<Promedio>531</Promedio>
+<Volumetria>551093</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1323</Excepciones>
+<Fecha>2019-05-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>507672</Percentil>
+<Percentil95>2639</Percentil95>
+<Promedio>698</Promedio>
+<Volumetria>514058</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5738</Excepciones>
+<Fecha>2019-05-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1047016</Percentil>
+<Percentil95>2912</Percentil95>
+<Promedio>837</Promedio>
+<Volumetria>1047204</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5713</Excepciones>
+<Fecha>2019-05-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>959034</Percentil>
+<Percentil95>3363</Percentil95>
+<Promedio>936</Promedio>
+<Volumetria>961058</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5889</Excepciones>
+<Fecha>2019-05-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909431</Percentil>
+<Percentil95>4199</Percentil95>
+<Promedio>1103</Promedio>
+<Volumetria>910433</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5626</Excepciones>
+<Fecha>2019-05-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>982568</Percentil>
+<Percentil95>5089</Percentil95>
+<Promedio>1254</Promedio>
+<Volumetria>983684</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4653</Excepciones>
+<Fecha>2019-05-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>944019</Percentil>
+<Percentil95>4197</Percentil95>
+<Promedio>1054</Promedio>
+<Volumetria>944177</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2110</Excepciones>
+<Fecha>2019-05-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>652914</Percentil>
+<Percentil95>3304</Percentil95>
+<Promedio>825</Promedio>
+<Volumetria>652833</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1502</Excepciones>
+<Fecha>2019-05-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>564382</Percentil>
+<Percentil95>1718</Percentil95>
+<Promedio>493</Promedio>
+<Volumetria>564396</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5204</Excepciones>
+<Fecha>2019-05-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1030159</Percentil>
+<Percentil95>1403</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>1030229</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4825</Excepciones>
+<Fecha>2019-05-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>988229</Percentil>
+<Percentil95>1513</Percentil95>
+<Promedio>536</Promedio>
+<Volumetria>989868</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4805</Excepciones>
+<Fecha>2019-05-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909625</Percentil>
+<Percentil95>1379</Percentil95>
+<Promedio>503</Promedio>
+<Volumetria>910103</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4828</Excepciones>
+<Fecha>2019-05-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>881084</Percentil>
+<Percentil95>1701</Percentil95>
+<Promedio>605</Promedio>
+<Volumetria>883449</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4168</Excepciones>
+<Fecha>2019-05-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>869512</Percentil>
+<Percentil95>1645</Percentil95>
+<Promedio>573</Promedio>
+<Volumetria>872047</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2273</Excepciones>
+<Fecha>2019-05-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>635464</Percentil>
+<Percentil95>1252</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>635473</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>50322</Excepciones>
+<Fecha>2019-05-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>584105</Percentil>
+<Percentil95>11074</Percentil95>
+<Promedio>1884</Promedio>
+<Volumetria>584113</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5563</Excepciones>
+<Fecha>2019-05-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1006704</Percentil>
+<Percentil95>1579</Percentil95>
+<Promedio>562</Promedio>
+<Volumetria>1011452</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4677</Excepciones>
+<Fecha>2019-05-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>913119</Percentil>
+<Percentil95>1651</Percentil95>
+<Promedio>590</Promedio>
+<Volumetria>915557</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5074</Excepciones>
+<Fecha>2019-05-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>897486</Percentil>
+<Percentil95>1811</Percentil95>
+<Promedio>665</Promedio>
+<Volumetria>898085</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3368</Excepciones>
+<Fecha>2019-05-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>669899</Percentil>
+<Percentil95>1590</Percentil95>
+<Promedio>551</Promedio>
+<Volumetria>682826</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5153</Excepciones>
+<Fecha>2019-05-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>838176</Percentil>
+<Percentil95>1641</Percentil95>
+<Promedio>589</Promedio>
+<Volumetria>840963</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2055</Excepciones>
+<Fecha>2019-05-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>633070</Percentil>
+<Percentil95>1074</Percentil95>
+<Promedio>387</Promedio>
+<Volumetria>633070</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10662</Excepciones>
+<Fecha>2019-05-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>549265</Percentil>
+<Percentil95>2146</Percentil95>
+<Promedio>713</Promedio>
+<Volumetria>557196</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5811</Excepciones>
+<Fecha>2019-05-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>927097</Percentil>
+<Percentil95>1533</Percentil95>
+<Promedio>524</Promedio>
+<Volumetria>929132</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6107</Excepciones>
+<Fecha>2019-05-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>950076</Percentil>
+<Percentil95>1587</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>950091</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5379</Excepciones>
+<Fecha>2019-05-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>975736</Percentil>
+<Percentil95>1555</Percentil95>
+<Promedio>530</Promedio>
+<Volumetria>975722</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5192</Excepciones>
+<Fecha>2019-05-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>946927</Percentil>
+<Percentil95>1488</Percentil95>
+<Promedio>521</Promedio>
+<Volumetria>946926</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5864</Excepciones>
+<Fecha>2019-05-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>938446</Percentil>
+<Percentil95>1805</Percentil95>
+<Promedio>581</Promedio>
+<Volumetria>938438</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2327</Excepciones>
+<Fecha>2019-06-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>616276</Percentil>
+<Percentil95>1092</Percentil95>
+<Promedio>390</Promedio>
+<Volumetria>616276</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1774</Excepciones>
+<Fecha>2019-06-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>514538</Percentil>
+<Percentil95>3148</Percentil95>
+<Promedio>1388</Promedio>
+<Volumetria>514568</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>182967</Excepciones>
+<Fecha>2019-06-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>895826</Percentil>
+<Percentil95>9551</Percentil95>
+<Promedio>3112</Promedio>
+<Volumetria>895824</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>34202</Excepciones>
+<Fecha>2019-06-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>758213</Percentil>
+<Percentil95>3546</Percentil95>
+<Promedio>1751</Promedio>
+<Volumetria>758284</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5491</Excepciones>
+<Fecha>2019-06-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>897754</Percentil>
+<Percentil95>2648</Percentil95>
+<Promedio>739</Promedio>
+<Volumetria>896294</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4737</Excepciones>
+<Fecha>2019-06-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>906592</Percentil>
+<Percentil95>1564</Percentil95>
+<Promedio>541</Promedio>
+<Volumetria>908078</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4921</Excepciones>
+<Fecha>2019-06-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>967477</Percentil>
+<Percentil95>1328</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>967546</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2496</Excepciones>
+<Fecha>2019-06-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>626069</Percentil>
+<Percentil95>1097</Percentil95>
+<Promedio>402</Promedio>
+<Volumetria>626012</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1574</Excepciones>
+<Fecha>2019-06-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>721149</Percentil>
+<Percentil95>1462</Percentil95>
+<Promedio>458</Promedio>
+<Volumetria>729204</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13357</Excepciones>
+<Fecha>2019-06-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>964740</Percentil>
+<Percentil95>17427</Percentil95>
+<Promedio>3777</Promedio>
+<Volumetria>964751</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7088</Excepciones>
+<Fecha>2019-06-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>980813</Percentil>
+<Percentil95>2207</Percentil95>
+<Promedio>713</Promedio>
+<Volumetria>980848</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6267</Excepciones>
+<Fecha>2019-06-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1001762</Percentil>
+<Percentil95>1988</Percentil95>
+<Promedio>701</Promedio>
+<Volumetria>1001775</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5559</Excepciones>
+<Fecha>2019-06-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>922733</Percentil>
+<Percentil95>1451</Percentil95>
+<Promedio>570</Promedio>
+<Volumetria>922756</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7017</Excepciones>
+<Fecha>2019-06-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>940031</Percentil>
+<Percentil95>1663</Percentil95>
+<Promedio>579</Promedio>
+<Volumetria>940048</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4106</Excepciones>
+<Fecha>2019-06-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>665615</Percentil>
+<Percentil95>1950</Percentil95>
+<Promedio>545</Promedio>
+<Volumetria>665605</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2339</Excepciones>
+<Fecha>2019-06-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>601573</Percentil>
+<Percentil95>1563</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>610134</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7409</Excepciones>
+<Fecha>2019-06-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>980894</Percentil>
+<Percentil95>1364</Percentil95>
+<Promedio>514</Promedio>
+<Volumetria>980878</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7441</Excepciones>
+<Fecha>2019-06-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>986020</Percentil>
+<Percentil95>1371</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>986028</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5608</Excepciones>
+<Fecha>2019-06-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>998932</Percentil>
+<Percentil95>1381</Percentil95>
+<Promedio>522</Promedio>
+<Volumetria>998908</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4923</Excepciones>
+<Fecha>2019-06-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>887495</Percentil>
+<Percentil95>2019</Percentil95>
+<Promedio>581</Promedio>
+<Volumetria>887495</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4336</Excepciones>
+<Fecha>2019-06-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>858284</Percentil>
+<Percentil95>1363</Percentil95>
+<Promedio>493</Promedio>
+<Volumetria>858296</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2292</Excepciones>
+<Fecha>2019-06-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>607721</Percentil>
+<Percentil95>1116</Percentil95>
+<Promedio>391</Promedio>
+<Volumetria>607720</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1434</Excepciones>
+<Fecha>2019-06-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>556992</Percentil>
+<Percentil95>1597</Percentil95>
+<Promedio>455</Promedio>
+<Volumetria>565236</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4736</Excepciones>
+<Fecha>2019-06-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>886141</Percentil>
+<Percentil95>1715</Percentil95>
+<Promedio>514</Promedio>
+<Volumetria>886151</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4711</Excepciones>
+<Fecha>2019-06-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>971197</Percentil>
+<Percentil95>1548</Percentil95>
+<Promedio>578</Promedio>
+<Volumetria>971205</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4938</Excepciones>
+<Fecha>2019-06-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>978298</Percentil>
+<Percentil95>1487</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>978278</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5061</Excepciones>
+<Fecha>2019-06-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>848121</Percentil>
+<Percentil95>1798</Percentil95>
+<Promedio>633</Promedio>
+<Volumetria>848132</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5293</Excepciones>
+<Fecha>2019-06-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1063014</Percentil>
+<Percentil95>1930</Percentil95>
+<Promedio>626</Promedio>
+<Volumetria>1063025</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2389</Excepciones>
+<Fecha>2019-06-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>656579</Percentil>
+<Percentil95>1642</Percentil95>
+<Promedio>441</Promedio>
+<Volumetria>656571</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1515</Excepciones>
+<Fecha>2019-06-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>593483</Percentil>
+<Percentil95>1726</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>601704</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5980</Excepciones>
+<Fecha>2019-07-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1059600</Percentil>
+<Percentil95>1338</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>1059612</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>46650</Excepciones>
+<Fecha>2019-07-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1035176</Percentil>
+<Percentil95>3276</Percentil95>
+<Promedio>891</Promedio>
+<Volumetria>1035187</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6322</Excepciones>
+<Fecha>2019-07-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1103987</Percentil>
+<Percentil95>1416</Percentil95>
+<Promedio>518</Promedio>
+<Volumetria>1103987</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5055</Excepciones>
+<Fecha>2019-07-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>900344</Percentil>
+<Percentil95>1413</Percentil95>
+<Promedio>525</Promedio>
+<Volumetria>900433</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4509</Excepciones>
+<Fecha>2019-07-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>884925</Percentil>
+<Percentil95>1396</Percentil95>
+<Promedio>522</Promedio>
+<Volumetria>884916</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2064</Excepciones>
+<Fecha>2019-07-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>580195</Percentil>
+<Percentil95>1200</Percentil95>
+<Promedio>436</Promedio>
+<Volumetria>580200</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1949</Excepciones>
+<Fecha>2019-07-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>573407</Percentil>
+<Percentil95>1666</Percentil95>
+<Promedio>488</Promedio>
+<Volumetria>581002</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>57947</Excepciones>
+<Fecha>2019-07-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1065146</Percentil>
+<Percentil95>5661</Percentil95>
+<Promedio>1112</Promedio>
+<Volumetria>1065153</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6796</Excepciones>
+<Fecha>2019-07-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1094776</Percentil>
+<Percentil95>1524</Percentil95>
+<Promedio>567</Promedio>
+<Volumetria>1094795</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6704</Excepciones>
+<Fecha>2019-07-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1012115</Percentil>
+<Percentil95>1655</Percentil95>
+<Promedio>596</Promedio>
+<Volumetria>1012155</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5454</Excepciones>
+<Fecha>2019-07-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>979063</Percentil>
+<Percentil95>1500</Percentil95>
+<Promedio>550</Promedio>
+<Volumetria>979080</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5255</Excepciones>
+<Fecha>2019-07-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>968713</Percentil>
+<Percentil95>1429</Percentil95>
+<Promedio>538</Promedio>
+<Volumetria>968706</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2598</Excepciones>
+<Fecha>2019-07-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>597234</Percentil>
+<Percentil95>1206</Percentil95>
+<Promedio>456</Promedio>
+<Volumetria>597227</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2028</Excepciones>
+<Fecha>2019-07-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>550691</Percentil>
+<Percentil95>1782</Percentil95>
+<Promedio>548</Promedio>
+<Volumetria>550687</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6821</Excepciones>
+<Fecha>2019-07-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1149490</Percentil>
+<Percentil95>1406</Percentil95>
+<Promedio>507</Promedio>
+<Volumetria>1149516</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6018</Excepciones>
+<Fecha>2019-07-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1109061</Percentil>
+<Percentil95>1441</Percentil95>
+<Promedio>526</Promedio>
+<Volumetria>1109049</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5057</Excepciones>
+<Fecha>2019-07-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>998680</Percentil>
+<Percentil95>1413</Percentil95>
+<Promedio>537</Promedio>
+<Volumetria>998713</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5863</Excepciones>
+<Fecha>2019-07-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1101359</Percentil>
+<Percentil95>1405</Percentil95>
+<Promedio>517</Promedio>
+<Volumetria>1101345</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4973</Excepciones>
+<Fecha>2019-07-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>906298</Percentil>
+<Percentil95>1408</Percentil95>
+<Promedio>516</Promedio>
+<Volumetria>907617</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2684</Excepciones>
+<Fecha>2019-07-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>597390</Percentil>
+<Percentil95>1414</Percentil95>
+<Promedio>440</Promedio>
+<Volumetria>597393</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1599</Excepciones>
+<Fecha>2019-07-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>593758</Percentil>
+<Percentil95>1833</Percentil95>
+<Promedio>532</Promedio>
+<Volumetria>603410</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5792</Excepciones>
+<Fecha>2019-07-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1061212</Percentil>
+<Percentil95>1426</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>1061259</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5216</Excepciones>
+<Fecha>2019-07-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>966048</Percentil>
+<Percentil95>1451</Percentil95>
+<Promedio>529</Promedio>
+<Volumetria>966024</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5015</Excepciones>
+<Fecha>2019-07-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>828364</Percentil>
+<Percentil95>1465</Percentil95>
+<Promedio>548</Promedio>
+<Volumetria>828436</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5608</Excepciones>
+<Fecha>2019-07-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>935252</Percentil>
+<Percentil95>1351</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>935355</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4898</Excepciones>
+<Fecha>2019-07-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>903446</Percentil>
+<Percentil95>1402</Percentil95>
+<Promedio>517</Promedio>
+<Volumetria>903470</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2806</Excepciones>
+<Fecha>2019-07-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>701889</Percentil>
+<Percentil95>1197</Percentil95>
+<Promedio>425</Promedio>
+<Volumetria>701913</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1746</Excepciones>
+<Fecha>2019-07-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>542573</Percentil>
+<Percentil95>1165</Percentil95>
+<Promedio>398</Promedio>
+<Volumetria>542558</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7105</Excepciones>
+<Fecha>2019-07-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1163070</Percentil>
+<Percentil95>1431</Percentil95>
+<Promedio>499</Promedio>
+<Volumetria>1163220</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5916</Excepciones>
+<Fecha>2019-07-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1064937</Percentil>
+<Percentil95>1552</Percentil95>
+<Promedio>543</Promedio>
+<Volumetria>1064812</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6287</Excepciones>
+<Fecha>2019-07-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1037065</Percentil>
+<Percentil95>1792</Percentil95>
+<Promedio>608</Promedio>
+<Volumetria>1037101</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6078</Excepciones>
+<Fecha>2019-08-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1111570</Percentil>
+<Percentil95>1483</Percentil95>
+<Promedio>540</Promedio>
+<Volumetria>1111574</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4753</Excepciones>
+<Fecha>2019-08-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1047700</Percentil>
+<Percentil95>1517</Percentil95>
+<Promedio>550</Promedio>
+<Volumetria>1047717</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2137</Excepciones>
+<Fecha>2019-08-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>607852</Percentil>
+<Percentil95>1302</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>607284</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1723</Excepciones>
+<Fecha>2019-08-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>585784</Percentil>
+<Percentil95>1211</Percentil95>
+<Promedio>415</Promedio>
+<Volumetria>594413</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6381</Excepciones>
+<Fecha>2019-08-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1067625</Percentil>
+<Percentil95>1493</Percentil95>
+<Promedio>546</Promedio>
+<Volumetria>1067690</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5933</Excepciones>
+<Fecha>2019-08-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1025502</Percentil>
+<Percentil95>1505</Percentil95>
+<Promedio>557</Promedio>
+<Volumetria>1025572</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5854</Excepciones>
+<Fecha>2019-08-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1113068</Percentil>
+<Percentil95>1511</Percentil95>
+<Promedio>554</Promedio>
+<Volumetria>1113112</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5702</Excepciones>
+<Fecha>2019-08-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1094196</Percentil>
+<Percentil95>1582</Percentil95>
+<Promedio>575</Promedio>
+<Volumetria>1094332</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4871</Excepciones>
+<Fecha>2019-08-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1032682</Percentil>
+<Percentil95>1541</Percentil95>
+<Promedio>553</Promedio>
+<Volumetria>1032739</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2433</Excepciones>
+<Fecha>2019-08-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>691779</Percentil>
+<Percentil95>1308</Percentil95>
+<Promedio>451</Promedio>
+<Volumetria>691758</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1767</Excepciones>
+<Fecha>2019-08-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>608378</Percentil>
+<Percentil95>1249</Percentil95>
+<Promedio>423</Promedio>
+<Volumetria>617175</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6549</Excepciones>
+<Fecha>2019-08-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1140641</Percentil>
+<Percentil95>1450</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>1140750</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6549</Excepciones>
+<Fecha>2019-08-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1140641</Percentil>
+<Percentil95>1450</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>1140750</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5603</Excepciones>
+<Fecha>2019-08-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1004584</Percentil>
+<Percentil95>1463</Percentil95>
+<Promedio>543</Promedio>
+<Volumetria>1004623</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>27331</Excepciones>
+<Fecha>2019-08-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1058729</Percentil>
+<Percentil95>2328</Percentil95>
+<Promedio>717</Promedio>
+<Volumetria>1058780</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2108</Excepciones>
+<Fecha>2019-08-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>647784</Percentil>
+<Percentil95>1422</Percentil95>
+<Promedio>465</Promedio>
+<Volumetria>647768</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2108</Excepciones>
+<Fecha>2019-08-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>647784</Percentil>
+<Percentil95>1422</Percentil95>
+<Promedio>465</Promedio>
+<Volumetria>647768</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4834</Excepciones>
+<Fecha>2019-08-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>968918</Percentil>
+<Percentil95>1447</Percentil95>
+<Promedio>516</Promedio>
+<Volumetria>968939</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2415</Excepciones>
+<Fecha>2019-08-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>716391</Percentil>
+<Percentil95>1331</Percentil95>
+<Promedio>452</Promedio>
+<Volumetria>716380</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1748</Excepciones>
+<Fecha>2019-08-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>608417</Percentil>
+<Percentil95>1277</Percentil95>
+<Promedio>427</Promedio>
+<Volumetria>618113</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6392</Excepciones>
+<Fecha>2019-08-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1040805</Percentil>
+<Percentil95>1750</Percentil95>
+<Promedio>597</Promedio>
+<Volumetria>1040898</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6818</Excepciones>
+<Fecha>2019-08-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1056117</Percentil>
+<Percentil95>4548</Percentil95>
+<Promedio>1303</Promedio>
+<Volumetria>1056149</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5827</Excepciones>
+<Fecha>2019-08-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1055698</Percentil>
+<Percentil95>1480</Percentil95>
+<Promedio>514</Promedio>
+<Volumetria>1055864</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5105</Excepciones>
+<Fecha>2019-08-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>998428</Percentil>
+<Percentil95>1427</Percentil95>
+<Promedio>512</Promedio>
+<Volumetria>998512</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7688</Excepciones>
+<Fecha>2019-08-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>944058</Percentil>
+<Percentil95>1473</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>944065</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7688</Excepciones>
+<Fecha>2019-08-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>944058</Percentil>
+<Percentil95>1473</Percentil95>
+<Promedio>555</Promedio>
+<Volumetria>944065</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4309</Excepciones>
+<Fecha>2019-08-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>632684</Percentil>
+<Percentil95>1326</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>632684</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4309</Excepciones>
+<Fecha>2019-08-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>632684</Percentil>
+<Percentil95>1326</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>632684</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3378</Excepciones>
+<Fecha>2019-08-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>646990</Percentil>
+<Percentil95>1278</Percentil95>
+<Promedio>453</Promedio>
+<Volumetria>657235</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10505</Excepciones>
+<Fecha>2019-08-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1216266</Percentil>
+<Percentil95>1457</Percentil95>
+<Promedio>565</Promedio>
+<Volumetria>1216097</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8330</Excepciones>
+<Fecha>2019-08-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1157298</Percentil>
+<Percentil95>1518</Percentil95>
+<Promedio>568</Promedio>
+<Volumetria>1157345</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7843</Excepciones>
+<Fecha>2019-08-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1048378</Percentil>
+<Percentil95>1503</Percentil95>
+<Promedio>553</Promedio>
+<Volumetria>1048385</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8059</Excepciones>
+<Fecha>2019-08-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1085920</Percentil>
+<Percentil95>1537</Percentil95>
+<Promedio>566</Promedio>
+<Volumetria>1085926</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8065</Excepciones>
+<Fecha>2019-08-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>965589</Percentil>
+<Percentil95>1540</Percentil95>
+<Promedio>590</Promedio>
+<Volumetria>965608</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4941</Excepciones>
+<Fecha>2019-08-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>707805</Percentil>
+<Percentil95>1324</Percentil95>
+<Promedio>482</Promedio>
+<Volumetria>707792</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3480</Excepciones>
+<Fecha>2019-09-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>615872</Percentil>
+<Percentil95>1224</Percentil95>
+<Promedio>455</Promedio>
+<Volumetria>625480</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3480</Excepciones>
+<Fecha>2019-09-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>615872</Percentil>
+<Percentil95>1224</Percentil95>
+<Promedio>455</Promedio>
+<Volumetria>625480</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8826</Excepciones>
+<Fecha>2019-09-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1042176</Percentil>
+<Percentil95>1528</Percentil95>
+<Promedio>568</Promedio>
+<Volumetria>1042195</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8826</Excepciones>
+<Fecha>2019-09-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1042176</Percentil>
+<Percentil95>1528</Percentil95>
+<Promedio>568</Promedio>
+<Volumetria>1042195</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8062</Excepciones>
+<Fecha>2019-09-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1044763</Percentil>
+<Percentil95>1544</Percentil95>
+<Promedio>586</Promedio>
+<Volumetria>1044795</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7345</Excepciones>
+<Fecha>2019-09-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>943386</Percentil>
+<Percentil95>1594</Percentil95>
+<Promedio>629</Promedio>
+<Volumetria>943432</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7392</Excepciones>
+<Fecha>2019-09-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>949589</Percentil>
+<Percentil95>1562</Percentil95>
+<Promedio>606</Promedio>
+<Volumetria>949594</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7281</Excepciones>
+<Fecha>2019-09-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1014683</Percentil>
+<Percentil95>1770</Percentil95>
+<Promedio>672</Promedio>
+<Volumetria>1014704</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3860</Excepciones>
+<Fecha>2019-09-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>623930</Percentil>
+<Percentil95>1385</Percentil95>
+<Promedio>504</Promedio>
+<Volumetria>623933</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3050</Excepciones>
+<Fecha>2019-09-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>577492</Percentil>
+<Percentil95>1281</Percentil95>
+<Promedio>479</Promedio>
+<Volumetria>585849</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3050</Excepciones>
+<Fecha>2019-09-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>577492</Percentil>
+<Percentil95>1281</Percentil95>
+<Promedio>479</Promedio>
+<Volumetria>585849</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9548</Excepciones>
+<Fecha>2019-09-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909562</Percentil>
+<Percentil95>1963</Percentil95>
+<Promedio>678</Promedio>
+<Volumetria>909647</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9548</Excepciones>
+<Fecha>2019-09-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909562</Percentil>
+<Percentil95>1963</Percentil95>
+<Promedio>678</Promedio>
+<Volumetria>909647</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>99409</Excepciones>
+<Fecha>2019-09-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>975709</Percentil>
+<Percentil95>4655</Percentil95>
+<Promedio>1481</Promedio>
+<Volumetria>975763</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>32012</Excepciones>
+<Fecha>2019-09-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>943035</Percentil>
+<Percentil95>2417</Percentil95>
+<Promedio>817</Promedio>
+<Volumetria>943078</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>32012</Excepciones>
+<Fecha>2019-09-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>943035</Percentil>
+<Percentil95>2417</Percentil95>
+<Promedio>817</Promedio>
+<Volumetria>943078</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7883</Excepciones>
+<Fecha>2019-09-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1054453</Percentil>
+<Percentil95>1257</Percentil95>
+<Promedio>456</Promedio>
+<Volumetria>1054508</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6500</Excepciones>
+<Fecha>2019-09-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>934663</Percentil>
+<Percentil95>1323</Percentil95>
+<Promedio>489</Promedio>
+<Volumetria>934688</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4169</Excepciones>
+<Fecha>2019-09-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>719849</Percentil>
+<Percentil95>1163</Percentil95>
+<Promedio>404</Promedio>
+<Volumetria>719848</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4169</Excepciones>
+<Fecha>2019-09-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>719849</Percentil>
+<Percentil95>1163</Percentil95>
+<Promedio>404</Promedio>
+<Volumetria>719848</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2986</Excepciones>
+<Fecha>2019-09-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>483000</Percentil>
+<Percentil95>1110</Percentil95>
+<Promedio>399</Promedio>
+<Volumetria>491498</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8642</Excepciones>
+<Fecha>2019-09-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1041245</Percentil>
+<Percentil95>1259</Percentil95>
+<Promedio>444</Promedio>
+<Volumetria>1041340</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13792</Excepciones>
+<Fecha>2019-09-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1264677</Percentil>
+<Percentil95>1224</Percentil95>
+<Promedio>517</Promedio>
+<Volumetria>1264779</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>51172</Excepciones>
+<Fecha>2019-09-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1054709</Percentil>
+<Percentil95>2519</Percentil95>
+<Promedio>1697</Promedio>
+<Volumetria>1054769</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>38667</Excepciones>
+<Fecha>2019-09-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>920801</Percentil>
+<Percentil95>3380</Percentil95>
+<Promedio>1132</Promedio>
+<Volumetria>920904</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10893</Excepciones>
+<Fecha>2019-09-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>950568</Percentil>
+<Percentil95>1250</Percentil95>
+<Promedio>454</Promedio>
+<Volumetria>950596</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5665</Excepciones>
+<Fecha>2019-09-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>686896</Percentil>
+<Percentil95>1135</Percentil95>
+<Promedio>408</Promedio>
+<Volumetria>686894</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4075</Excepciones>
+<Fecha>2019-09-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>585553</Percentil>
+<Percentil95>1085</Percentil95>
+<Promedio>390</Promedio>
+<Volumetria>593585</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>11892</Excepciones>
+<Fecha>2019-09-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1049852</Percentil>
+<Percentil95>1258</Percentil95>
+<Promedio>462</Promedio>
+<Volumetria>1049885</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10728</Excepciones>
+<Fecha>2019-09-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1083154</Percentil>
+<Percentil95>1213</Percentil95>
+<Promedio>451</Promedio>
+<Volumetria>1083232</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>11996</Excepciones>
+<Fecha>2019-09-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1183544</Percentil>
+<Percentil95>1240</Percentil95>
+<Promedio>466</Promedio>
+<Volumetria>1183694</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>11049</Excepciones>
+<Fecha>2019-09-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>929909</Percentil>
+<Percentil95>1863</Percentil95>
+<Promedio>489</Promedio>
+<Volumetria>930403</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>11049</Excepciones>
+<Fecha>2019-09-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>929909</Percentil>
+<Percentil95>1863</Percentil95>
+<Promedio>489</Promedio>
+<Volumetria>930403</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10744</Excepciones>
+<Fecha>2019-09-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909182</Percentil>
+<Percentil95>1330</Percentil95>
+<Promedio>480</Promedio>
+<Volumetria>909259</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7360</Excepciones>
+<Fecha>2019-09-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>639043</Percentil>
+<Percentil95>1128</Percentil95>
+<Promedio>397</Promedio>
+<Volumetria>639038</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4001</Excepciones>
+<Fecha>2019-09-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>469262</Percentil>
+<Percentil95>1110</Percentil95>
+<Promedio>414</Promedio>
+<Volumetria>469267</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13582</Excepciones>
+<Fecha>2019-09-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1115381</Percentil>
+<Percentil95>1215</Percentil95>
+<Promedio>437</Promedio>
+<Volumetria>1115508</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12135</Excepciones>
+<Fecha>2019-10-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1086080</Percentil>
+<Percentil95>1240</Percentil95>
+<Promedio>464</Promedio>
+<Volumetria>1087641</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12135</Excepciones>
+<Fecha>2019-10-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1086080</Percentil>
+<Percentil95>1240</Percentil95>
+<Promedio>464</Promedio>
+<Volumetria>1087641</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10860</Excepciones>
+<Fecha>2019-10-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1135216</Percentil>
+<Percentil95>1401</Percentil95>
+<Promedio>566</Promedio>
+<Volumetria>1135522</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10003</Excepciones>
+<Fecha>2019-10-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>929827</Percentil>
+<Percentil95>1229</Percentil95>
+<Promedio>459</Promedio>
+<Volumetria>932162</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9007</Excepciones>
+<Fecha>2019-10-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>876669</Percentil>
+<Percentil95>1297</Percentil95>
+<Promedio>492</Promedio>
+<Volumetria>876728</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4617</Excepciones>
+<Fecha>2019-10-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>602584</Percentil>
+<Percentil95>1176</Percentil95>
+<Promedio>434</Promedio>
+<Volumetria>602588</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3624</Excepciones>
+<Fecha>2019-10-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>555344</Percentil>
+<Percentil95>1104</Percentil95>
+<Promedio>426</Promedio>
+<Volumetria>562621</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12592</Excepciones>
+<Fecha>2019-10-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1010408</Percentil>
+<Percentil95>1297</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>1010692</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12592</Excepciones>
+<Fecha>2019-10-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1010408</Percentil>
+<Percentil95>1297</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>1010692</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10379</Excepciones>
+<Fecha>2019-10-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>963722</Percentil>
+<Percentil95>1270</Percentil95>
+<Promedio>475</Promedio>
+<Volumetria>963849</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8964</Excepciones>
+<Fecha>2019-10-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1070437</Percentil>
+<Percentil95>1300</Percentil95>
+<Promedio>488</Promedio>
+<Volumetria>1070767</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10357</Excepciones>
+<Fecha>2019-10-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>989414</Percentil>
+<Percentil95>1258</Percentil95>
+<Promedio>480</Promedio>
+<Volumetria>989644</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8731</Excepciones>
+<Fecha>2019-10-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>943720</Percentil>
+<Percentil95>1240</Percentil95>
+<Promedio>465</Promedio>
+<Volumetria>943795</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4015</Excepciones>
+<Fecha>2019-10-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>558908</Percentil>
+<Percentil95>1198</Percentil95>
+<Promedio>424</Promedio>
+<Volumetria>558922</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2903</Excepciones>
+<Fecha>2019-10-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>423501</Percentil>
+<Percentil95>1164</Percentil95>
+<Promedio>418</Promedio>
+<Volumetria>430120</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14748</Excepciones>
+<Fecha>2019-10-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1066095</Percentil>
+<Percentil95>1720</Percentil95>
+<Promedio>525</Promedio>
+<Volumetria>1066264</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10763</Excepciones>
+<Fecha>2019-10-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1012805</Percentil>
+<Percentil95>1292</Percentil95>
+<Promedio>474</Promedio>
+<Volumetria>1013092</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10621</Excepciones>
+<Fecha>2019-10-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1064507</Percentil>
+<Percentil95>1314</Percentil95>
+<Promedio>506</Promedio>
+<Volumetria>1064866</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10864</Excepciones>
+<Fecha>2019-10-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>902682</Percentil>
+<Percentil95>1271</Percentil95>
+<Promedio>471</Promedio>
+<Volumetria>902834</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8484</Excepciones>
+<Fecha>2019-10-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>845204</Percentil>
+<Percentil95>1304</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>845343</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4241</Excepciones>
+<Fecha>2019-10-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>590251</Percentil>
+<Percentil95>1180</Percentil95>
+<Promedio>432</Promedio>
+<Volumetria>590254</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4633</Excepciones>
+<Fecha>2019-10-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>541426</Percentil>
+<Percentil95>1465</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>548533</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10096</Excepciones>
+<Fecha>2019-10-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>975022</Percentil>
+<Percentil95>1207</Percentil95>
+<Promedio>443</Promedio>
+<Volumetria>975077</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8616</Excepciones>
+<Fecha>2019-10-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>989158</Percentil>
+<Percentil95>1269</Percentil95>
+<Promedio>465</Promedio>
+<Volumetria>989187</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8616</Excepciones>
+<Fecha>2019-10-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>989158</Percentil>
+<Percentil95>1269</Percentil95>
+<Promedio>465</Promedio>
+<Volumetria>989187</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7979</Excepciones>
+<Fecha>2019-10-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>987282</Percentil>
+<Percentil95>1313</Percentil95>
+<Promedio>492</Promedio>
+<Volumetria>987310</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7923</Excepciones>
+<Fecha>2019-10-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>840392</Percentil>
+<Percentil95>1295</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>840401</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8429</Excepciones>
+<Fecha>2019-10-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>981482</Percentil>
+<Percentil95>1219</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>981517</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8429</Excepciones>
+<Fecha>2019-10-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>981482</Percentil>
+<Percentil95>1219</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>981517</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>149377</Excepciones>
+<Fecha>2019-10-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>608262</Percentil>
+<Percentil95>12400</Percentil95>
+<Promedio>4224</Promedio>
+<Volumetria>608265</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3215</Excepciones>
+<Fecha>2019-10-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>526711</Percentil>
+<Percentil95>1207</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>550556</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3215</Excepciones>
+<Fecha>2019-10-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>526711</Percentil>
+<Percentil95>1207</Percentil95>
+<Promedio>461</Promedio>
+<Volumetria>550556</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10337</Excepciones>
+<Fecha>2019-10-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1009571</Percentil>
+<Percentil95>1300</Percentil95>
+<Promedio>488</Promedio>
+<Volumetria>1009610</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6757</Excepciones>
+<Fecha>2019-10-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>956998</Percentil>
+<Percentil95>1371</Percentil95>
+<Promedio>505</Promedio>
+<Volumetria>957144</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5947</Excepciones>
+<Fecha>2019-10-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1034139</Percentil>
+<Percentil95>1376</Percentil95>
+<Promedio>510</Promedio>
+<Volumetria>1034180</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5726</Excepciones>
+<Fecha>2019-10-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>954011</Percentil>
+<Percentil95>1357</Percentil95>
+<Promedio>475</Promedio>
+<Volumetria>954955</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3645</Excepciones>
+<Fecha>2019-11-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>649852</Percentil>
+<Percentil95>1242</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>649842</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3695</Excepciones>
+<Fecha>2019-11-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>570985</Percentil>
+<Percentil95>1216</Percentil95>
+<Promedio>501</Promedio>
+<Volumetria>570979</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3323</Excepciones>
+<Fecha>2019-11-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>504298</Percentil>
+<Percentil95>1195</Percentil95>
+<Promedio>522</Promedio>
+<Volumetria>510529</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7273</Excepciones>
+<Fecha>2019-11-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>907279</Percentil>
+<Percentil95>1279</Percentil95>
+<Promedio>528</Promedio>
+<Volumetria>907385</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6681</Excepciones>
+<Fecha>2019-11-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>917939</Percentil>
+<Percentil95>1255</Percentil95>
+<Promedio>519</Promedio>
+<Volumetria>918066</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6757</Excepciones>
+<Fecha>2019-11-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>995258</Percentil>
+<Percentil95>1193</Percentil95>
+<Promedio>521</Promedio>
+<Volumetria>995566</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5743</Excepciones>
+<Fecha>2019-11-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>911381</Percentil>
+<Percentil95>1189</Percentil95>
+<Promedio>431</Promedio>
+<Volumetria>911506</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4614</Excepciones>
+<Fecha>2019-11-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>825615</Percentil>
+<Percentil95>1214</Percentil95>
+<Promedio>442</Promedio>
+<Volumetria>825659</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2628</Excepciones>
+<Fecha>2019-11-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>540563</Percentil>
+<Percentil95>1136</Percentil95>
+<Promedio>409</Promedio>
+<Volumetria>540569</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2628</Excepciones>
+<Fecha>2019-11-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>540563</Percentil>
+<Percentil95>1136</Percentil95>
+<Promedio>409</Promedio>
+<Volumetria>540569</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2102</Excepciones>
+<Fecha>2019-11-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>456078</Percentil>
+<Percentil95>1054</Percentil95>
+<Promedio>395</Promedio>
+<Volumetria>461822</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>37497</Excepciones>
+<Fecha>2019-11-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>883482</Percentil>
+<Percentil95>2592</Percentil95>
+<Promedio>899</Promedio>
+<Volumetria>883489</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>37497</Excepciones>
+<Fecha>2019-11-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>883482</Percentil>
+<Percentil95>2592</Percentil95>
+<Promedio>899</Promedio>
+<Volumetria>883489</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5514</Excepciones>
+<Fecha>2019-11-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>815173</Percentil>
+<Percentil95>1129</Percentil95>
+<Promedio>440</Promedio>
+<Volumetria>815488</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5514</Excepciones>
+<Fecha>2019-11-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>815173</Percentil>
+<Percentil95>1129</Percentil95>
+<Promedio>440</Promedio>
+<Volumetria>815488</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5583</Excepciones>
+<Fecha>2019-11-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1026181</Percentil>
+<Percentil95>1160</Percentil95>
+<Promedio>450</Promedio>
+<Volumetria>1026253</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5518</Excepciones>
+<Fecha>2019-11-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>826301</Percentil>
+<Percentil95>1192</Percentil95>
+<Promedio>442</Promedio>
+<Volumetria>826407</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4732</Excepciones>
+<Fecha>2019-11-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>825636</Percentil>
+<Percentil95>1180</Percentil95>
+<Promedio>444</Promedio>
+<Volumetria>825712</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2615</Excepciones>
+<Fecha>2019-11-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>490939</Percentil>
+<Percentil95>1037</Percentil95>
+<Promedio>393</Promedio>
+<Volumetria>490924</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2022</Excepciones>
+<Fecha>2019-11-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>453332</Percentil>
+<Percentil95>1039</Percentil95>
+<Promedio>404</Promedio>
+<Volumetria>453507</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6155</Excepciones>
+<Fecha>2019-11-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>929935</Percentil>
+<Percentil95>1152</Percentil95>
+<Promedio>449</Promedio>
+<Volumetria>930112</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5464</Excepciones>
+<Fecha>2019-11-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1091941</Percentil>
+<Percentil95>1194</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>1092067</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5464</Excepciones>
+<Fecha>2019-11-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1091941</Percentil>
+<Percentil95>1194</Percentil95>
+<Promedio>448</Promedio>
+<Volumetria>1092067</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6974</Excepciones>
+<Fecha>2019-11-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1186206</Percentil>
+<Percentil95>1264</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>1186397</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6974</Excepciones>
+<Fecha>2019-11-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1186206</Percentil>
+<Percentil95>1264</Percentil95>
+<Promedio>513</Promedio>
+<Volumetria>1186397</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10054</Excepciones>
+<Fecha>2019-11-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>864261</Percentil>
+<Percentil95>1863</Percentil95>
+<Promedio>549</Promedio>
+<Volumetria>864447</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5207</Excepciones>
+<Fecha>2019-11-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>910459</Percentil>
+<Percentil95>1124</Percentil95>
+<Promedio>452</Promedio>
+<Volumetria>910716</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2663</Excepciones>
+<Fecha>2019-11-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>598132</Percentil>
+<Percentil95>1100</Percentil95>
+<Promedio>401</Promedio>
+<Volumetria>598135</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2032</Excepciones>
+<Fecha>2019-11-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>511151</Percentil>
+<Percentil95>1023</Percentil95>
+<Promedio>391</Promedio>
+<Volumetria>517966</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5855</Excepciones>
+<Fecha>2019-11-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>910575</Percentil>
+<Percentil95>1216</Percentil95>
+<Promedio>476</Promedio>
+<Volumetria>911418</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6038</Excepciones>
+<Fecha>2019-11-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>988238</Percentil>
+<Percentil95>1200</Percentil95>
+<Promedio>445</Promedio>
+<Volumetria>988835</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6528</Excepciones>
+<Fecha>2019-11-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1153565</Percentil>
+<Percentil95>1218</Percentil95>
+<Promedio>475</Promedio>
+<Volumetria>1153736</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>58463</Excepciones>
+<Fecha>2019-11-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>976796</Percentil>
+<Percentil95>1949</Percentil95>
+<Promedio>821</Promedio>
+<Volumetria>977159</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9580</Excepciones>
+<Fecha>2019-11-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1057844</Percentil>
+<Percentil95>945</Percentil95>
+<Promedio>374</Promedio>
+<Volumetria>1057775</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9580</Excepciones>
+<Fecha>2019-11-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1057844</Percentil>
+<Percentil95>945</Percentil95>
+<Promedio>374</Promedio>
+<Volumetria>1057775</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3639</Excepciones>
+<Fecha>2019-11-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>603694</Percentil>
+<Percentil95>1021</Percentil95>
+<Promedio>362</Promedio>
+<Volumetria>603698</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3639</Excepciones>
+<Fecha>2019-11-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>603694</Percentil>
+<Percentil95>1021</Percentil95>
+<Promedio>362</Promedio>
+<Volumetria>603698</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3201</Excepciones>
+<Fecha>2019-12-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>537426</Percentil>
+<Percentil95>938</Percentil95>
+<Promedio>324</Promedio>
+<Volumetria>544246</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8489</Excepciones>
+<Fecha>2019-12-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>975027</Percentil>
+<Percentil95>1121</Percentil95>
+<Promedio>387</Promedio>
+<Volumetria>975084</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7926</Excepciones>
+<Fecha>2019-12-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>977710</Percentil>
+<Percentil95>1063</Percentil95>
+<Promedio>387</Promedio>
+<Volumetria>977896</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7926</Excepciones>
+<Fecha>2019-12-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>977710</Percentil>
+<Percentil95>1063</Percentil95>
+<Promedio>387</Promedio>
+<Volumetria>977896</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9300</Excepciones>
+<Fecha>2019-12-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1203194</Percentil>
+<Percentil95>1002</Percentil95>
+<Promedio>382</Promedio>
+<Volumetria>1203360</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10681</Excepciones>
+<Fecha>2019-12-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1129425</Percentil>
+<Percentil95>1047</Percentil95>
+<Promedio>415</Promedio>
+<Volumetria>1129534</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5534</Excepciones>
+<Fecha>2019-12-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>813673</Percentil>
+<Percentil95>962</Percentil95>
+<Promedio>358</Promedio>
+<Volumetria>813660</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5102</Excepciones>
+<Fecha>2019-12-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>706633</Percentil>
+<Percentil95>952</Percentil95>
+<Promedio>353</Promedio>
+<Volumetria>706633</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5102</Excepciones>
+<Fecha>2019-12-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>706633</Percentil>
+<Percentil95>952</Percentil95>
+<Promedio>353</Promedio>
+<Volumetria>706633</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4238</Excepciones>
+<Fecha>2019-12-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>650474</Percentil>
+<Percentil95>981</Percentil95>
+<Promedio>382</Promedio>
+<Volumetria>657271</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6971</Excepciones>
+<Fecha>2019-12-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>891249</Percentil>
+<Percentil95>999</Percentil95>
+<Promedio>371</Promedio>
+<Volumetria>891476</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>37132</Excepciones>
+<Fecha>2019-12-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1098976</Percentil>
+<Percentil95>1015</Percentil95>
+<Promedio>385</Promedio>
+<Volumetria>1098976</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9360</Excepciones>
+<Fecha>2019-12-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1232137</Percentil>
+<Percentil95>1070</Percentil95>
+<Promedio>408</Promedio>
+<Volumetria>1232566</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7948</Excepciones>
+<Fecha>2019-12-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1121189</Percentil>
+<Percentil95>1209</Percentil95>
+<Promedio>440</Promedio>
+<Volumetria>1121483</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>290</Excepciones>
+<Fecha>2019-12-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>60205</Percentil>
+<Percentil95>1243</Percentil95>
+<Promedio>464</Promedio>
+<Volumetria>60203</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>0</Excepciones>
+<Fecha>2019-12-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>0</Percentil>
+<Percentil95>0</Percentil95>
+<Promedio>0</Promedio>
+<Volumetria>0</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>450</Excepciones>
+<Fecha>2019-12-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>42931</Percentil>
+<Percentil95>1085</Percentil95>
+<Promedio>391</Promedio>
+<Volumetria>42990</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12767</Excepciones>
+<Fecha>2019-12-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1307294</Percentil>
+<Percentil95>1271</Percentil95>
+<Promedio>496</Promedio>
+<Volumetria>1307357</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9163</Excepciones>
+<Fecha>2019-12-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1021919</Percentil>
+<Percentil95>1375</Percentil95>
+<Promedio>523</Promedio>
+<Volumetria>1021977</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8289</Excepciones>
+<Fecha>2019-12-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1023130</Percentil>
+<Percentil95>1409</Percentil95>
+<Promedio>524</Promedio>
+<Volumetria>1023273</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8480</Excepciones>
+<Fecha>2019-12-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>882863</Percentil>
+<Percentil95>1420</Percentil95>
+<Promedio>527</Promedio>
+<Volumetria>883008</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4158</Excepciones>
+<Fecha>2019-12-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>537442</Percentil>
+<Percentil95>1373</Percentil95>
+<Promedio>528</Promedio>
+<Volumetria>550272</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4140</Excepciones>
+<Fecha>2019-12-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>620614</Percentil>
+<Percentil95>1285</Percentil95>
+<Promedio>473</Promedio>
+<Volumetria>620608</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2687</Excepciones>
+<Fecha>2019-12-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>429185</Percentil>
+<Percentil95>1162</Percentil95>
+<Promedio>433</Promedio>
+<Volumetria>436030</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9080</Excepciones>
+<Fecha>2019-12-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>952015</Percentil>
+<Percentil95>1354</Percentil95>
+<Promedio>495</Promedio>
+<Volumetria>952708</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4446</Excepciones>
+<Fecha>2019-12-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>570377</Percentil>
+<Percentil95>1223</Percentil95>
+<Promedio>464</Promedio>
+<Volumetria>570553</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3050</Excepciones>
+<Fecha>2019-12-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>538689</Percentil>
+<Percentil95>1209</Percentil95>
+<Promedio>469</Promedio>
+<Volumetria>538716</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8646</Excepciones>
+<Fecha>2019-12-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>961215</Percentil>
+<Percentil95>1486</Percentil95>
+<Promedio>526</Promedio>
+<Volumetria>962073</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8817</Excepciones>
+<Fecha>2019-12-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>955341</Percentil>
+<Percentil95>1413</Percentil95>
+<Promedio>505</Promedio>
+<Volumetria>955828</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4598</Excepciones>
+<Fecha>2019-12-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>623378</Percentil>
+<Percentil95>1324</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>623376</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3285</Excepciones>
+<Fecha>2019-12-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>518841</Percentil>
+<Percentil95>1193</Percentil95>
+<Promedio>438</Promedio>
+<Volumetria>525413</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7338</Excepciones>
+<Fecha>2019-12-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>850842</Percentil>
+<Percentil95>1329</Percentil95>
+<Promedio>479</Promedio>
+<Volumetria>851223</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3924</Excepciones>
+<Fecha>2019-12-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>605392</Percentil>
+<Percentil95>1286</Percentil95>
+<Promedio>432</Promedio>
+<Volumetria>605389</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2346</Excepciones>
+<Fecha>2020-01-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>534098</Percentil>
+<Percentil95>1165</Percentil95>
+<Promedio>391</Promedio>
+<Volumetria>534102</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7524</Excepciones>
+<Fecha>2020-01-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1006284</Percentil>
+<Percentil95>1383</Percentil95>
+<Promedio>460</Promedio>
+<Volumetria>1006611</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14358</Excepciones>
+<Fecha>2020-01-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>878526</Percentil>
+<Percentil95>1939</Percentil95>
+<Promedio>600</Promedio>
+<Volumetria>878762</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4119</Excepciones>
+<Fecha>2020-01-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>527026</Percentil>
+<Percentil95>1531</Percentil95>
+<Promedio>471</Promedio>
+<Volumetria>526979</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>1949</Excepciones>
+<Fecha>2020-01-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>438528</Percentil>
+<Percentil95>1128</Percentil95>
+<Promedio>381</Promedio>
+<Volumetria>445036</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2784</Excepciones>
+<Fecha>2020-01-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>488778</Percentil>
+<Percentil95>1133</Percentil95>
+<Promedio>381</Promedio>
+<Volumetria>488795</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5272</Excepciones>
+<Fecha>2020-01-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>629678</Percentil>
+<Percentil95>1356</Percentil95>
+<Promedio>474</Promedio>
+<Volumetria>674166</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>33050</Excepciones>
+<Fecha>2020-01-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1119984</Percentil>
+<Percentil95>2654</Percentil95>
+<Promedio>696</Promedio>
+<Volumetria>1120595</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14651</Excepciones>
+<Fecha>2020-01-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>899608</Percentil>
+<Percentil95>3244</Percentil95>
+<Promedio>854</Promedio>
+<Volumetria>891272</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12276</Excepciones>
+<Fecha>2020-01-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>844556</Percentil>
+<Percentil95>1446</Percentil95>
+<Promedio>503</Promedio>
+<Volumetria>836405</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7028</Excepciones>
+<Fecha>2020-01-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>564395</Percentil>
+<Percentil95>2493</Percentil95>
+<Promedio>749</Promedio>
+<Volumetria>564364</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5370</Excepciones>
+<Fecha>2020-01-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>420799</Percentil>
+<Percentil95>1822</Percentil95>
+<Promedio>527</Promedio>
+<Volumetria>422333</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14688</Excepciones>
+<Fecha>2020-01-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>982185</Percentil>
+<Percentil95>1438</Percentil95>
+<Promedio>481</Promedio>
+<Volumetria>982829</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>15525</Excepciones>
+<Fecha>2020-01-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1085118</Percentil>
+<Percentil95>1440</Percentil95>
+<Promedio>486</Promedio>
+<Volumetria>1085912</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>15061</Excepciones>
+<Fecha>2020-01-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1154764</Percentil>
+<Percentil95>1458</Percentil95>
+<Promedio>511</Promedio>
+<Volumetria>1155163</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>15792</Excepciones>
+<Fecha>2020-01-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>998746</Percentil>
+<Percentil95>1475</Percentil95>
+<Promedio>501</Promedio>
+<Volumetria>999233</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12678</Excepciones>
+<Fecha>2020-01-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>888679</Percentil>
+<Percentil95>1297</Percentil95>
+<Promedio>457</Promedio>
+<Volumetria>889225</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6059</Excepciones>
+<Fecha>2020-01-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>566211</Percentil>
+<Percentil95>1193</Percentil95>
+<Promedio>401</Promedio>
+<Volumetria>566264</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4897</Excepciones>
+<Fecha>2020-01-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>492618</Percentil>
+<Percentil95>1216</Percentil95>
+<Promedio>416</Promedio>
+<Volumetria>495433</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13398</Excepciones>
+<Fecha>2020-01-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>802514</Percentil>
+<Percentil95>1534</Percentil95>
+<Promedio>522</Promedio>
+<Volumetria>803514</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12470</Excepciones>
+<Fecha>2020-01-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>753492</Percentil>
+<Percentil95>1416</Percentil95>
+<Promedio>490</Promedio>
+<Volumetria>754120</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14102</Excepciones>
+<Fecha>2020-01-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1034528</Percentil>
+<Percentil95>1446</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>1035239</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>12455</Excepciones>
+<Fecha>2020-01-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>817546</Percentil>
+<Percentil95>1460</Percentil95>
+<Promedio>507</Promedio>
+<Volumetria>817695</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10522</Excepciones>
+<Fecha>2020-01-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>719200</Percentil>
+<Percentil95>1318</Percentil95>
+<Promedio>447</Promedio>
+<Volumetria>716794</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5976</Excepciones>
+<Fecha>2020-01-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>578055</Percentil>
+<Percentil95>1270</Percentil95>
+<Promedio>416</Promedio>
+<Volumetria>578040</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3888</Excepciones>
+<Fecha>2020-01-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>475456</Percentil>
+<Percentil95>1176</Percentil95>
+<Promedio>407</Promedio>
+<Volumetria>482110</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14641</Excepciones>
+<Fecha>2020-01-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>922063</Percentil>
+<Percentil95>1413</Percentil95>
+<Promedio>456</Promedio>
+<Volumetria>922316</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13430</Excepciones>
+<Fecha>2020-01-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>886923</Percentil>
+<Percentil95>1507</Percentil95>
+<Promedio>496</Promedio>
+<Volumetria>887123</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13493</Excepciones>
+<Fecha>2020-01-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1107448</Percentil>
+<Percentil95>1442</Percentil95>
+<Promedio>489</Promedio>
+<Volumetria>1107781</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>13054</Excepciones>
+<Fecha>2020-01-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>812802</Percentil>
+<Percentil95>1547</Percentil95>
+<Promedio>545</Promedio>
+<Volumetria>813567</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14260</Excepciones>
+<Fecha>2020-01-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>985303</Percentil>
+<Percentil95>1603</Percentil95>
+<Promedio>562</Promedio>
+<Volumetria>986216</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7398</Excepciones>
+<Fecha>2020-02-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>615421</Percentil>
+<Percentil95>1264</Percentil95>
+<Promedio>481</Promedio>
+<Volumetria>615373</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4551</Excepciones>
+<Fecha>2020-02-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>465193</Percentil>
+<Percentil95>1258</Percentil95>
+<Promedio>481</Promedio>
+<Volumetria>470600</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>15035</Excepciones>
+<Fecha>2020-02-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>851685</Percentil>
+<Percentil95>1352</Percentil95>
+<Promedio>520</Promedio>
+<Volumetria>851936</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>15026</Excepciones>
+<Fecha>2020-02-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1097172</Percentil>
+<Percentil95>1560</Percentil95>
+<Promedio>575</Promedio>
+<Volumetria>1097185</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>14497</Excepciones>
+<Fecha>2020-02-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1079061</Percentil>
+<Percentil95>1533</Percentil95>
+<Promedio>567</Promedio>
+<Volumetria>1079128</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7397</Excepciones>
+<Fecha>2020-02-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>840204</Percentil>
+<Percentil95>1500</Percentil95>
+<Promedio>548</Promedio>
+<Volumetria>840420</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6533</Excepciones>
+<Fecha>2020-02-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>792086</Percentil>
+<Percentil95>1438</Percentil95>
+<Promedio>530</Promedio>
+<Volumetria>792291</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4075</Excepciones>
+<Fecha>2020-02-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>583791</Percentil>
+<Percentil95>1326</Percentil95>
+<Promedio>500</Promedio>
+<Volumetria>583816</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3265</Excepciones>
+<Fecha>2020-02-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>488868</Percentil>
+<Percentil95>1232</Percentil95>
+<Promedio>469</Promedio>
+<Volumetria>495664</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7271</Excepciones>
+<Fecha>2020-02-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>852909</Percentil>
+<Percentil95>1336</Percentil95>
+<Promedio>516</Promedio>
+<Volumetria>853168</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8091</Excepciones>
+<Fecha>2020-02-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1084063</Percentil>
+<Percentil95>1385</Percentil95>
+<Promedio>552</Promedio>
+<Volumetria>1084317</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10390</Excepciones>
+<Fecha>2020-02-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>983126</Percentil>
+<Percentil95>1332</Percentil95>
+<Promedio>496</Promedio>
+<Volumetria>983329</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8241</Excepciones>
+<Fecha>2020-02-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>930826</Percentil>
+<Percentil95>1320</Percentil95>
+<Promedio>498</Promedio>
+<Volumetria>930957</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5222</Excepciones>
+<Fecha>2020-02-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>554537</Percentil>
+<Percentil95>1282</Percentil95>
+<Promedio>486</Promedio>
+<Volumetria>554522</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3281</Excepciones>
+<Fecha>2020-02-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>420115</Percentil>
+<Percentil95>2292</Percentil95>
+<Promedio>624</Promedio>
+<Volumetria>423411</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9551</Excepciones>
+<Fecha>2020-02-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>891856</Percentil>
+<Percentil95>1320</Percentil95>
+<Promedio>487</Promedio>
+<Volumetria>892045</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9009</Excepciones>
+<Fecha>2020-02-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>904526</Percentil>
+<Percentil95>1603</Percentil95>
+<Promedio>577</Promedio>
+<Volumetria>904576</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9779</Excepciones>
+<Fecha>2020-02-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>985288</Percentil>
+<Percentil95>1405</Percentil95>
+<Promedio>527</Promedio>
+<Volumetria>985401</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8291</Excepciones>
+<Fecha>2020-02-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>755526</Percentil>
+<Percentil95>1463</Percentil95>
+<Promedio>532</Promedio>
+<Volumetria>756074</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8310</Excepciones>
+<Fecha>2020-02-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>777900</Percentil>
+<Percentil95>1430</Percentil95>
+<Promedio>506</Promedio>
+<Volumetria>777508</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4221</Excepciones>
+<Fecha>2020-02-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>548384</Percentil>
+<Percentil95>1438</Percentil95>
+<Promedio>502</Promedio>
+<Volumetria>548380</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3208</Excepciones>
+<Fecha>2020-02-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>480971</Percentil>
+<Percentil95>1351</Percentil95>
+<Promedio>482</Promedio>
+<Volumetria>487687</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9350</Excepciones>
+<Fecha>2020-02-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>936556</Percentil>
+<Percentil95>1544</Percentil95>
+<Promedio>563</Promedio>
+<Volumetria>936561</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8427</Excepciones>
+<Fecha>2020-02-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>944264</Percentil>
+<Percentil95>1440</Percentil95>
+<Promedio>521</Promedio>
+<Volumetria>944255</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>59646</Excepciones>
+<Fecha>2020-02-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>989120</Percentil>
+<Percentil95>5484</Percentil95>
+<Promedio>1608</Promedio>
+<Volumetria>989128</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8372</Excepciones>
+<Fecha>2020-02-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1010833</Percentil>
+<Percentil95>1423</Percentil95>
+<Promedio>533</Promedio>
+<Volumetria>1010840</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8604</Excepciones>
+<Fecha>2020-02-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>990774</Percentil>
+<Percentil95>1492</Percentil95>
+<Promedio>540</Promedio>
+<Volumetria>990783</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4833</Excepciones>
+<Fecha>2020-02-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>593801</Percentil>
+<Percentil95>1313</Percentil95>
+<Promedio>481</Promedio>
+<Volumetria>593813</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3326</Excepciones>
+<Fecha>2020-03-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>470218</Percentil>
+<Percentil95>1286</Percentil95>
+<Promedio>460</Promedio>
+<Volumetria>473482</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10148</Excepciones>
+<Fecha>2020-03-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>912428</Percentil>
+<Percentil95>1369</Percentil95>
+<Promedio>471</Promedio>
+<Volumetria>912426</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9778</Excepciones>
+<Fecha>2020-03-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1046284</Percentil>
+<Percentil95>1434</Percentil95>
+<Promedio>497</Promedio>
+<Volumetria>1046293</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9616</Excepciones>
+<Fecha>2020-03-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1001828</Percentil>
+<Percentil95>1403</Percentil95>
+<Promedio>493</Promedio>
+<Volumetria>1001832</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8769</Excepciones>
+<Fecha>2020-03-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1001696</Percentil>
+<Percentil95>1412</Percentil95>
+<Promedio>489</Promedio>
+<Volumetria>1001697</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>8024</Excepciones>
+<Fecha>2020-03-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>800813</Percentil>
+<Percentil95>1439</Percentil95>
+<Promedio>497</Promedio>
+<Volumetria>800813</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4221</Excepciones>
+<Fecha>2020-03-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>550097</Percentil>
+<Percentil95>1356</Percentil95>
+<Promedio>484</Promedio>
+<Volumetria>550093</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3010</Excepciones>
+<Fecha>2020-03-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>446549</Percentil>
+<Percentil95>1311</Percentil95>
+<Promedio>478</Promedio>
+<Volumetria>446552</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>9261</Excepciones>
+<Fecha>2020-03-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1037340</Percentil>
+<Percentil95>1373</Percentil95>
+<Promedio>491</Promedio>
+<Volumetria>1037386</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10115</Excepciones>
+<Fecha>2020-03-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1055978</Percentil>
+<Percentil95>1395</Percentil95>
+<Promedio>514</Promedio>
+<Volumetria>1056029</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>10118</Excepciones>
+<Fecha>2020-03-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1053359</Percentil>
+<Percentil95>1453</Percentil95>
+<Promedio>518</Promedio>
+<Volumetria>1053365</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7830</Excepciones>
+<Fecha>2020-03-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>831305</Percentil>
+<Percentil95>1348</Percentil95>
+<Promedio>475</Promedio>
+<Volumetria>831310</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7792</Excepciones>
+<Fecha>2020-03-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>940098</Percentil>
+<Percentil95>1463</Percentil95>
+<Promedio>522</Promedio>
+<Volumetria>940101</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5129</Excepciones>
+<Fecha>2020-03-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>681846</Percentil>
+<Percentil95>1345</Percentil95>
+<Promedio>483</Promedio>
+<Volumetria>681843</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3781</Excepciones>
+<Fecha>2020-03-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>591570</Percentil>
+<Percentil95>1361</Percentil95>
+<Promedio>482</Promedio>
+<Volumetria>598867</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7889</Excepciones>
+<Fecha>2020-03-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>815416</Percentil>
+<Percentil95>1442</Percentil95>
+<Promedio>510</Promedio>
+<Volumetria>814925</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7764</Excepciones>
+<Fecha>2020-03-17T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>932988</Percentil>
+<Percentil95>1366</Percentil95>
+<Promedio>496</Promedio>
+<Volumetria>933018</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6246</Excepciones>
+<Fecha>2020-03-18T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>725067</Percentil>
+<Percentil95>1429</Percentil95>
+<Promedio>505</Promedio>
+<Volumetria>724664</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3197</Excepciones>
+<Fecha>2020-03-19T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>417447</Percentil>
+<Percentil95>1433</Percentil95>
+<Promedio>491</Promedio>
+<Volumetria>417476</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3180</Excepciones>
+<Fecha>2020-03-20T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>583385</Percentil>
+<Percentil95>1296</Percentil95>
+<Promedio>472</Promedio>
+<Volumetria>583399</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3065</Excepciones>
+<Fecha>2020-03-21T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>562538</Percentil>
+<Percentil95>1474</Percentil95>
+<Promedio>517</Promedio>
+<Volumetria>562552</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2381</Excepciones>
+<Fecha>2020-03-22T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>457325</Percentil>
+<Percentil95>1271</Percentil95>
+<Promedio>447</Promedio>
+<Volumetria>464845</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4961</Excepciones>
+<Fecha>2020-03-23T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>716028</Percentil>
+<Percentil95>1352.25232</Percentil95>
+<Promedio>462.752167</Promedio>
+<Volumetria>715758</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4986</Excepciones>
+<Fecha>2020-03-24T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>836107</Percentil>
+<Percentil95>1270.20862</Percentil95>
+<Promedio>474.804321</Promedio>
+<Volumetria>836715</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5545</Excepciones>
+<Fecha>2020-03-25T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>903512</Percentil>
+<Percentil95>1334.37146</Percentil95>
+<Promedio>491.613159</Promedio>
+<Volumetria>903513</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4516</Excepciones>
+<Fecha>2020-03-26T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>716317</Percentil>
+<Percentil95>1265.66772</Percentil95>
+<Promedio>440.3848</Promedio>
+<Volumetria>716311</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4486</Excepciones>
+<Fecha>2020-03-27T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>731039</Percentil>
+<Percentil95>1282.78357</Percentil95>
+<Promedio>470.0932</Promedio>
+<Volumetria>731047</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3202</Excepciones>
+<Fecha>2020-03-28T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>545039</Percentil>
+<Percentil95>1236.20032</Percentil95>
+<Promedio>450.584869</Promedio>
+<Volumetria>545033</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>2376</Excepciones>
+<Fecha>2020-03-29T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>458595</Percentil>
+<Percentil95>1232.61267</Percentil95>
+<Promedio>436.523743</Promedio>
+<Volumetria>456909</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5512</Excepciones>
+<Fecha>2020-03-30T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>909603</Percentil>
+<Percentil95>1229.41565</Percentil95>
+<Promedio>451.966858</Promedio>
+<Volumetria>909615</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5548</Excepciones>
+<Fecha>2020-03-31T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>862525</Percentil>
+<Percentil95>1371.16992</Percentil95>
+<Promedio>479.25885</Promedio>
+<Volumetria>862525</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5142</Excepciones>
+<Fecha>2020-04-01T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1004642</Percentil>
+<Percentil95>1487.56555</Percentil95>
+<Promedio>490.456268</Promedio>
+<Volumetria>1004635</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5684</Excepciones>
+<Fecha>2020-04-02T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>942466</Percentil>
+<Percentil95>1323.35083</Percentil95>
+<Promedio>457.777679</Promedio>
+<Volumetria>942465</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6233</Excepciones>
+<Fecha>2020-04-03T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>887808</Percentil>
+<Percentil95>1338.15027</Percentil95>
+<Promedio>505.4376</Promedio>
+<Volumetria>887833</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4144</Excepciones>
+<Fecha>2020-04-04T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>563784</Percentil>
+<Percentil95>1454.31885</Percentil95>
+<Promedio>510.561676</Promedio>
+<Volumetria>563773</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3372</Excepciones>
+<Fecha>2020-04-05T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>522796</Percentil>
+<Percentil95>1370.56116</Percentil95>
+<Promedio>495.609253</Promedio>
+<Volumetria>532263</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6990</Excepciones>
+<Fecha>2020-04-06T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>913980</Percentil>
+<Percentil95>1278.6394</Percentil95>
+<Promedio>466.890839</Promedio>
+<Volumetria>914010</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7113</Excepciones>
+<Fecha>2020-04-07T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>968404</Percentil>
+<Percentil95>1256.38171</Percentil95>
+<Promedio>464.9985</Promedio>
+<Volumetria>968403</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6980</Excepciones>
+<Fecha>2020-04-08T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>1001411</Percentil>
+<Percentil95>1396.327</Percentil95>
+<Promedio>501.9203</Promedio>
+<Volumetria>1001404</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>5658</Excepciones>
+<Fecha>2020-04-09T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>646224</Percentil>
+<Percentil95>1460.12134</Percentil95>
+<Promedio>513.499451</Promedio>
+<Volumetria>643910</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4404</Excepciones>
+<Fecha>2020-04-10T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>601228</Percentil>
+<Percentil95>1319.27844</Percentil95>
+<Promedio>491.4956</Promedio>
+<Volumetria>601208</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>4085</Excepciones>
+<Fecha>2020-04-11T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>539638</Percentil>
+<Percentil95>1439.17834</Percentil95>
+<Promedio>527.915039</Promedio>
+<Volumetria>539638</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>3101</Excepciones>
+<Fecha>2020-04-12T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>478634</Percentil>
+<Percentil95>1378.04138</Percentil95>
+<Promedio>477.406281</Promedio>
+<Volumetria>487595</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7440</Excepciones>
+<Fecha>2020-04-13T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>929139</Percentil>
+<Percentil95>1402.72388</Percentil95>
+<Promedio>494.3856</Promedio>
+<Volumetria>929143</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7860</Excepciones>
+<Fecha>2020-04-14T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>961216</Percentil>
+<Percentil95>1430.54089</Percentil95>
+<Promedio>484.83316</Promedio>
+<Volumetria>960099</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>7430</Excepciones>
+<Fecha>2020-04-15T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>918425</Percentil>
+<Percentil95>1462.60193</Percentil95>
+<Promedio>489.5074</Promedio>
+<Volumetria>918379</Volumetria>
+</DynatraceData>
+<DynatraceData>
+<Canal>TODOS </Canal>
+<Excepciones>6004</Excepciones>
+<Fecha>2020-04-16T00:00:00</Fecha>
+<Metrica>WS8_ObtenerDatosCliente </Metrica>
+<Percentil>788654</Percentil>
+<Percentil95>1417.9989</Percentil95>
+<Promedio>477.81424</Promedio>
+<Volumetria>788669</Volumetria>
+</DynatraceData>
+</ArrayOfDynatraceData>

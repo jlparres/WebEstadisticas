@@ -13,7 +13,7 @@ import { CertificatesComponent } from './components/certificates/certificates.co
 
 import { appRoutingProviders, routing } from './app.routing';
 
-// import { ChartModule, HIGHCHARTS_MODULES } from 'angular-highcharts';
+import { ChartModule, HIGHCHARTS_MODULES } from 'angular-highcharts';
 import stock from 'highcharts/modules/stock.src';
 import more from 'highcharts/highcharts-more.src';
 
@@ -35,11 +35,13 @@ export function highchartsModules() {
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
-    // ChartModule,
+    ChartModule,
     routing
   ],
   // providers: [ EstadisticasService, { provide: HIGHCHARTS_MODULES, useFactory: highchartsModules }],
-  providers: [ EstadisticasService, appRoutingProviders ],
+  providers: [ EstadisticasService, appRoutingProviders, { provide: HIGHCHARTS_MODULES, useFactory: highchartsModules } ],
   bootstrap: [ AppComponent ]
 })
+
+
 export class AppModule { }
